@@ -1,0 +1,940 @@
+Rank;Currency;Pair;Quote;Base;;trimmedvol;Volume(24h);Price;Volume(%);Liquidity;;;
+;;;;;;;;;;;;;
+3;Bitcoin;BTC/USDT;BTC;USDT;;;$6 663 172 015;$53,530.81;0,0632;725;Spot;Percentage;Recently
+6;BinanceCoin;BNB/USDT;BNB;USDT;;;$3 189 114 242;$265.63;0,0303;343;Spot;Percentage;Recently
+8;Ethereum;ETH/USDT;ETH;USDT;;;$2 774 884 275;$1,750.11;0,0263;657;Spot;Percentage;Recently
+10;XRP;XRP/USDT;XRP;USDT;;;$1 715 821 545;$0.5929;0,0163;362;Spot;Percentage;Recently
+11;Bitcoin;BTC/BUSD;BTC;BUSD;;;$1 593 150 849;$53,542.14;0,0151;729;Spot;Percentage;Recently
+13;BinanceUSD;BUSD/USDT;BUSD;USDT;;;$1 416 204 975;$1.00;0,0134;962;Spot;Percentage;Recently
+15;Cardano;ADA/USDT;ADA;USDT;;;$1 091 637 762;$1.01;0,0104;334;Spot;Percentage;Recently
+19;Polkadot;DOT/USDT;DOT;USDT;;;$853 489 984;$36.25;0,0081;394;Spot;Percentage;Recently
+20;Ethereum;ETH/BUSD;ETH;BUSD;;;$829 518 985;$1,749.95;0,0079;605;Spot;Percentage;Recently
+21;Ethereum;ETH/BTC;ETH;BTC;;;$780 340 597;$1,754.92;0,0074;634;Spot;Percentage;Recently
+23;BinanceCoin;BNB/BTC;BNB;BTC;;;$741 244 747;$266.16;0,007;315;Spot;Percentage;Recently
+25;BinanceCoin;BNB/BUSD;BNB;BUSD;;;$723 056 833;$265.45;0,0069;262;Spot;Percentage;Recently
+27;Dogecoin;DOGE/USDT;DOGE;USDT;;;$551 357 218;$0.05340;0,0052;329;Spot;Percentage;Recently
+29;Litecoin;LTC/USDT;LTC;USDT;;;$475 641 394;$205.04;0,0045;370;Spot;Percentage;Recently
+31;Bitcoin;BTC/EUR;BTC;EUR;;;$402 848 206;$53,809.39;0,0038;460;Spot;Percentage;Recently
+33;IOST;IOST/USDT;IOST;USDT;;;$377 527 392;$0.05982;0,0036;209;Spot;Percentage;Recently
+34;Chainlink;LINK/USDT;LINK;USDT;;;$373 066 743;$30.88;0,0035;369;Spot;Percentage;Recently
+36;EOS;EOS/USDT;EOS;USDT;;;$361 789 724;$4.66;0,0034;338;Spot;Percentage;Recently
+37;BitcoinCash;BCH/USDT;BCH;USDT;;;$358 202 233;$615.98;0,0034;375;Spot;Percentage;Recently
+40;XRP;XRP/BTC;XRP;BTC;;;$340 333 813;$0.5939;0,0032;249;Spot;Percentage;Recently
+41;Uniswap;UNI/USDT;UNI;USDT;;;$326 061 617;$27.11;0,0031;257;Spot;Percentage;Recently
+46;USDCoin;USDC/USDT;USDC;USDT;;;$287 265 193;$1.00;0,0027;916;Spot;Percentage;Recently
+47;Cardano;ADA/BTC;ADA;BTC;;;$284 275 008;$1.02;0,0027;265;Spot;Percentage;Recently
+48;Bitcoin;BTC/USDC;BTC;USDC;;;$258 375 638;$53,567.88;0,0025;320;Spot;Percentage;Recently
+50;Swipe;SXP/USDT;SXP;USDT;;;$250 808 011;$2.76;0,0024;237;Spot;Percentage;Recently
+52;Terra;LUNA/USDT;LUNA;USDT;;;$240 783 523;$7.05;0,0023;215;Spot;Percentage;Recently
+54;Holo;HOT/USDT;HOT;USDT;;;$221 556 181;$0.003410;0,0021;130;Spot;Percentage;Recently
+57;Stellar;XLM/USDT;XLM;USDT;;;$209 990 128;$0.4602;0,002;268;Spot;Percentage;Recently
+58;Fantom;FTM/USDT;FTM;USDT;;;$207 277 579;$0.3704;0,002;151;Spot;Percentage;Recently
+60;Reef;REEF/USDT;REEF;USDT;;;$205 429 747;$0.03656;0,0019;200;Spot;Percentage;Recently
+61;BitTorrent;BTT/USDT;BTT;USDT;;;$199 752 933;$0.001672;0,0019;180;Spot;Percentage;Recently
+62;Neo;NEO/USDT;NEO;USDT;;;$194 529 036;$47.83;0,0018;245;Spot;Percentage;Recently
+65;TheGraph;GRT/USDT;GRT;USDT;;;$184 590 449;$2.05;0,0018;185;Spot;Percentage;Recently
+68;BinanceCoin;BNB/EUR;BNB;EUR;;;$178 119 072;$267.08;0,0017;191;Spot;Percentage;Recently
+70;TRON;TRX/USDT;TRX;USDT;;;$173 209 989;$0.05335;0,0016;318;Spot;Percentage;Recently
+71;Euro;EUR/USDT;EUR;USDT;;;$173 536 326;$1.21;0,0016;720;Spot;Percentage;Recently
+72;VeChain;VET/USDT;VET;USDT;;;$172 195 210;$0.04871;0,0016;212;Spot;Percentage;Recently
+73;IOST;IOST/BTC;IOST;BTC;;;$169 311 736;$0.05960;0,0016;93;Spot;Percentage;Recently
+76;Ontology;ONT/USDT;ONT;USDT;;;$165 806 830;$1.21;0,0016;243;Spot;Percentage;Recently
+78;Polkadot;DOT/BTC;DOT;BTC;;;$163 836 615;$36.35;0,0016;233;Spot;Percentage;Recently
+79;SushiSwap;SUSHI/USDT;SUSHI;USDT;;;$158 348 607;$16.45;0,0015;204;Spot;Percentage;Recently
+80;Ethereum;ETH/EUR;ETH;EUR;;;$154 069 490;$1,758.15;0,0015;359;Spot;Percentage;Recently
+83;Filecoin;FIL/USDT;FIL;USDT;;;$146 457 448;$39.49;0,0014;289;Spot;Percentage;Recently
+85;Aave;AAVE/USDT;AAVE;USDT;;;$142 596 989;$409.53;0,0014;222;Spot;Percentage;Recently
+90;Ravencoin;RVN/USDT;RVN;USDT;;;$130 871 945;$0.1802;0,0012;170;Spot;Percentage;Recently
+91;Cardano;ADA/BUSD;ADA;BUSD;;;$129 562 322;$1.01;0,0012;182;Spot;Percentage;Recently
+92;PundiX;NPXS/USDT;NPXS;USDT;;;$130 559 898;$0.002798;0,0012;145;Spot;Percentage;Recently
+94;Cosmos;ATOM/USDT;ATOM;USDT;;;$124 851 403;$19.62;0,0012;236;Spot;Percentage;Recently
+96;Litecoin;LTC/BTC;LTC;BTC;;;$121 146 332;$205.37;0,0011;367;Spot;Percentage;Recently
+98;Dogecoin;DOGE/BTC;DOGE;BTC;;;$116 943 411;$0.05310;0,0011;97;Spot;Percentage;Recently
+99;Dash;DASH/USDT;DASH;USDT;;;$118 627 152;$274.11;0,0011;221;Spot;Percentage;Recently
+100;Polygon;MATIC/USDT;MATIC;USDT;;;$114 725 556;$0.1480;0,0011;175;Spot;Percentage;Recently
+102;PancakeSwap;CAKE/USDT;CAKE;USDT;;;$112 032 574;$15.08;0,0011;170;Spot;Percentage;Recently
+103;Elrond;EGLD/USDT;EGLD;USDT;;;$109 494 140;$128.77;0,001;198;Spot;Percentage;Recently
+107;XRP;XRP/BUSD;XRP;BUSD;;;$106 168 196;$0.5924;0,001;183;Spot;Percentage;Recently
+108;Chainlink;LINK/BTC;LINK;BTC;;;$102 586 719;$30.93;0,001;261;Spot;Percentage;Recently
+110;Bitcoin;BTC/GBP;BTC;GBP;;;$99 853 135;$53,830.93;0,0009;283;Spot;Percentage;Recently
+112;AlphaFinanceLab;ALPHA/USDT;ALPHA;USDT;;;$97 083 233;$1.48;0,0009;175;Spot;Percentage;Recently
+113;BinanceCoin;BNB/ETH;BNB;ETH;;;$96 122 927;$265.53;0,0009;211;Spot;Percentage;Recently
+115;Venus;XVS/USDT;XVS;USDT;;;$95 368 526;$77.83;0,0009;140;Spot;Percentage;Recently
+116;EthereumClassic;ETC/USDT;ETC;USDT;;;$94 216 249;$13.71;0,0009;267;Spot;Percentage;Recently
+118;yearn.finance;YFI/USDT;YFI;USDT;;;$92 459 536;$39,317.06;0,0009;190;Spot;Percentage;Recently
+119;Fantom;FTM/BTC;FTM;BTC;;;$91 575 954;$0.3717;0,0009;129;Spot;Percentage;Recently
+120;Ankr;ANKR/USDT;ANKR;USDT;;;$91 485 645;$0.03106;0,0009;132;Spot;Percentage;Recently
+123;Algorand;ALGO/USDT;ALGO;USDT;;;$90 714 662;$1.17;0,0009;205;Spot;Percentage;Recently
+124;DODO;DODO/USDT;DODO;USDT;;;$93 017 717;$5.69;0,0009;202;Spot;Percentage;Recently
+125;Zcash;ZEC/USDT;ZEC;USDT;;;$89 795 033;$145.00;0,0009;257;Spot;Percentage;Recently
+126;Ethereum;ETH/USDC;ETH;USDC;;;$88 280 451;$1,751.08;0,0008;249;Spot;Percentage;Recently
+127;Solana;SOL/USDT;SOL;USDT;;;$87 538 409;$10.47;0,0008;226;Spot;Percentage;Recently
+128;Avalanche;AVAX/USDT;AVAX;USDT;;;$87 003 466;$32.30;0,0008;203;Spot;Percentage;Recently
+129;BakeryToken;BAKE/BUSD;BAKE;BUSD;;;$85 142 347;$2.14;0,0008;133;Spot;Percentage;Recently
+130;1inch;1INCH/USDT;1INCH;USDT;;;$83 941 471;$4.57;0,0008;211;Spot;Percentage;Recently
+132;BitcoinCash;BCH/BTC;BCH;BTC;;;$83 070 795;$617.78;0,0008;351;Spot;Percentage;Recently
+133;NEM;XEM/USDT;XEM;USDT;;;$81 408 351;$0.5399;0,0008;156;Spot;Percentage;Recently
+134;SafePal;SFP/USDT;SFP;USDT;;;$80 245 659;$2.40;0,0008;153;Spot;Percentage;Recently
+135;Tezos;XTZ/USDT;XTZ;USDT;;;$80 211 571;$4.13;0,0008;244;Spot;Percentage;Recently
+136;IOTA;IOTA/USDT;IOTA;USDT;;;$81 049 929;$1.28;0,0008;188;Spot;Percentage;Recently
+138;PancakeSwap;CAKE/BUSD;CAKE;BUSD;;;$77 761 953;$15.10;0,0007;106;Spot;Percentage;Recently
+142;PoundSterling;GBP/USDT;GBP;USDT;;;$74 945 764;$1.40;0,0007;668;Spot;Percentage;Recently
+143;0x;ZRX/USDT;ZRX;USDT;;;$73 203 535;$1.55;0,0007;167;Spot;Percentage;Recently
+145;BTCUP;BTCUP/USDT;BTCUP;USDT;;;$71 275 999;$165.17;0,0007;165;Spot;NoFees;Recently
+146;BandProtocol;BAND/USDT;BAND;USDT;;;$69 520 804;$15.09;0,0007;174;Spot;Percentage;Recently
+147;Kusama;KSM/USDT;KSM;USDT;;;$68 673 573;$246.09;0,0007;176;Spot;Percentage;Recently
+149;Terra;LUNA/BTC;LUNA;BTC;;;$66 083 186;$7.08;0,0006;161;Spot;Percentage;Recently
+151;CurveDAOToken;CRV/USDT;CRV;USDT;;;$64 717 940;$2.52;0,0006;202;Spot;Percentage;Recently
+153;Polkadot;DOT/BUSD;DOT;BUSD;;;$64 277 930;$36.25;0,0006;192;Spot;Percentage;Recently
+154;Cardano;ADA/EUR;ADA;EUR;;;$64 322 881;$1.02;0,0006;176;Spot;Percentage;Recently
+156;ICON;ICX/USDT;ICX;USDT;;;$64 604 286;$1.83;0,0006;154;Spot;Percentage;Recently
+158;NEM;XEM/BTC;XEM;BTC;;;$63 374 155;$0.5423;0,0006;140;Spot;Percentage;Recently
+159;Tether;USDT/TRY;USDT;TRY;;;$62 805 647;$1.02;0,0006;464;Spot;Percentage;Recently
+160;Litentry;LIT/USDT;LIT;USDT;;;$61 646 696;$9.18;0,0006;150;Spot;Percentage;Recently
+164;Ravencoin;RVN/BTC;RVN;BTC;;;$60 598 855;$0.1808;0,0006;124;Spot;Percentage;Recently
+165;Monero;XMR/USDT;XMR;USDT;;;$60 402 541;$218.58;0,0006;212;Spot;Percentage;Recently
+167;Dent;DENT/USDT;DENT;USDT;;;$57 146 762;$0.002161;0,0005;164;Spot;Percentage;Recently
+169;Zilliqa;ZIL/USDT;ZIL;USDT;;;$58 516 629;$0.1223;0,0006;183;Spot;Percentage;Recently
+171;Ren;REN/USDT;REN;USDT;;;$57 517 663;$1.28;0,0005;176;Spot;Percentage;Recently
+174;BitcoinStandardHashrateToken;BTCST/USDT;BTCST;USDT;;;$55 502 476;$293.50;0,0005;147;Spot;Percentage;Recently
+175;BakeryToken;BAKE/BNB;BAKE;BNB;;;$54 532 751;$2.16;0,0005;127;Spot;Percentage;Recently
+176;Stellar;XLM/BTC;XLM;BTC;;;$55 293 669;$0.4618;0,0005;181;Spot;Percentage;Recently
+177;Bancor;BNT/USDT;BNT;USDT;;;$53 899 082;$5.99;0,0005;157;Spot;Percentage;Recently
+178;EOS;EOS/BTC;EOS;BTC;;;$54 281 584;$4.67;0,0005;222;Spot;Percentage;Recently
+179;OMGNetwork;OMG/USDT;OMG;USDT;;;$54 064 707;$5.52;0,0005;213;Spot;Percentage;Recently
+180;Reef;REEF/BTC;REEF;BTC;;;$53 107 265;$0.03701;0,0005;76;Spot;Percentage;Recently
+181;Ankr;ANKR/BTC;ANKR;BTC;;;$50 420 843;$0.03111;0,0005;68;Spot;Percentage;Recently
+183;XRPUP;XRPUP/USDT;XRPUP;USDT;;;$50 414 730;$5.03;0,0005;134;Spot;Percentage;Recently
+184;ETHUP;ETHUP/USDT;ETHUP;USDT;;;$50 304 842;$140.59;0,0005;124;Spot;Percentage;Recently
+185;XRP;XRP/EUR;XRP;EUR;;;$50 092 079;$0.5956;0,0005;195;Spot;Percentage;Recently
+186;Uniswap;UNI/BTC;UNI;BTC;;;$50 259 032;$27.12;0,0005;192;Spot;Percentage;Recently
+187;BinanceCoin;BNB/GBP;BNB;GBP;;;$49 999 332;$267.80;0,0005;145;Spot;Percentage;Recently
+188;EnjinCoin;ENJ/USDT;ENJ;USDT;;;$50 002 936;$0.5295;0,0005;149;Spot;Percentage;Recently
+189;Nexus;NXS/BTC;NXS;BTC;;;$48 391 555;$1.34;0,0005;113;Spot;Percentage;Recently
+192;THETA;THETA/USDT;THETA;USDT;;;$47 295 746;$3.25;0,0004;236;Spot;Percentage;Recently
+193;Ethereum;ETH/GBP;ETH;GBP;;;$46 717 031;$1,759.51;0,0004;258;Spot;Percentage;Recently
+194;BNBUP;BNBUP/USDT;BNBUP;USDT;;;$46 413 081;$617.24;0,0004;101;Spot;Percentage;Recently
+195;Qtum;QTUM/USDT;QTUM;USDT;;;$45 886 573;$6.31;0,0004;210;Spot;Percentage;Recently
+196;SushiSwap;SUSHI/BTC;SUSHI;BTC;;;$45 780 497;$16.47;0,0004;172;Spot;Percentage;Recently
+197;Swipe;SXP/BTC;SXP;BTC;;;$45 572 801;$2.76;0,0004;167;Spot;Percentage;Recently
+198;Solana;SOL/BTC;SOL;BTC;;;$45 432 078;$10.50;0,0004;168;Spot;Percentage;Recently
+199;USDCoin;USDC/BUSD;USDC;BUSD;;;$45 246 076;$1.00;0,0004;751;Spot;Percentage;Recently
+200;TheSandbox;SAND/USDT;SAND;USDT;;;$44 302 763;$0.2826;0,0004;138;Spot;Percentage;Recently
+203;TheGraph;GRT/BTC;GRT;BTC;;;$43 464 695;$2.05;0,0004;161;Spot;Percentage;Recently
+204;VeChain;VET/BTC;VET;BTC;;;$43 567 099;$0.04881;0,0004;91;Spot;Percentage;Recently
+205;Neo;NEO/BTC;NEO;BTC;;;$43 144 902;$48.06;0,0004;173;Spot;Percentage;Recently
+209;OceanProtocol;OCEAN/USDT;OCEAN;USDT;;;$41 568 794;$1.08;0,0004;172;Spot;Percentage;Recently
+210;Cosmos;ATOM/BTC;ATOM;BTC;;;$40 589 735;$19.67;0,0004;152;Spot;Percentage;Recently
+213;BTCDOWN;BTCDOWN/USDT;BTCDOWN;USDT;;;$39 906 775;$0.06653;0,0004;106;Spot;Percentage;Recently
+217;Serum;SRM/USDT;SRM;USDT;;;$38 241 683;$4.66;0,0004;174;Spot;Percentage;Recently
+220;VoyagerToken;BQX/BTC;BQX;BTC;;;$37 822 109;$6.43;0,0004;118;Spot;Percentage;Recently
+221;Ethereum;ETH/DAI;ETH;DAI;;;$37 643 622;$1,751.52;0,0004;280;Spot;Percentage;Recently
+222;PIVX;PIVX/BTC;PIVX;BTC;;;$37 763 321;$1.60;0,0004;88;Spot;Percentage;Recently
+223;Synthetix;SNX/USDT;SNX;USDT;;;$37 286 076;$20.73;0,0004;204;Spot;Percentage;Recently
+224;PancakeSwap;CAKE/BNB;CAKE;BNB;;;$37 244 153;$15.13;0,0004;119;Spot;Percentage;Recently
+225;Polygon;MATIC/BTC;MATIC;BTC;;;$36 193 358;$0.1480;0,0003;124;Spot;Percentage;Recently
+226;Euro;EUR/BUSD;EUR;BUSD;;;$36 558 928;$1.21;0,0003;622;Spot;Percentage;Recently
+228;BasicAttentionToken;BAT/USDT;BAT;USDT;;;$35 419 804;$0.5306;0,0003;176;Spot;Percentage;Recently
+229;WrappedBitcoin;WBTC/BTC;WBTC;BTC;;;$35 366 443;$53,641.32;0,0003;533;Spot;Percentage;Recently
+230;Litecoin;LTC/BUSD;LTC;BUSD;;;$35 213817;$205.05;0,0003;204;Spot;Percentage;Recently
+231;Monero;XMR/BTC;XMR;BTC;;;$35 072 590;$219.03;0,0003;247;Spot;Percentage;Recently
+232;THORChain;RUNE/USDT;RUNE;USDT;;;$34 879 476;$4.28;0,0003;177;Spot;Percentage;Recently
+233;Aion;AION/USDT;AION;USDT;;;$35 128 679;$0.2104;0,0003;113;Spot;Percentage;Recently
+234;ReserveRights;RSR/USDT;RSR;USDT;;;$34 436 887;$0.04868;0,0003;162;Spot;Percentage;Recently
+235;NEARProtocol;NEAR/USDT;NEAR;USDT;;;$34 393 306;$3.58;0,0003;180;Spot;Percentage;Recently
+236;Cardano;ADA/ETH;ADA;ETH;;;$33 471 889;$1.01;0,0003;167;Spot;Percentage;Recently
+237;Chiliz;CHZ/USDT;CHZ;USDT;;;$33 590 745;$0.04667;0,0003;148;Spot;Percentage;Recently
+238;PundiX;NPXS/ETH;NPXS;ETH;;;$33 385 424;$0.002811;0,0003;89;Spot;Percentage;Recently
+239;COTI;COTI/USDT;COTI;USDT;;;$32 812 813;$0.1893;0,0003;127;Spot;Percentage;Recently
+240;Compound;COMP/USDT;COMP;USDT;;;$32 486 679;$438.89;0,0003;186;Spot;Percentage;Recently
+241;bZxProtocol;BZRX/USDT;BZRX;USDT;;;$31 696 082;$0.5669;0,0003;134;Spot;Percentage;Recently
+244;Kava.io;KAVA/USDT;KAVA;USDT;;;$31 319 816;$4.11;0,0003;162;Spot;Percentage;Recently
+245;Aave;AAVE/BTC;AAVE;BTC;;;$31 513 181;$410.62;0,0003;202;Spot;Percentage;Recently
+246;DFI.Money;YFII/USDT;YFII;USDT;;;$31 094 806;$2,730.43;0,0003;191;Spot;Percentage;Recently
+247;Bitcoin;BTC/AUD;BTC;AUD;;;$30 952 804;$54,404.38;0,0003;251;Spot;Percentage;Recently
+248;TRON;TRX/BTC;TRX;BTC;;;$31 137 803;$0.05370;0,0003;95;Spot;Percentage;Recently
+249;Bitcoin;BTC/TRY;BTC;TRY;;;$30 783 706;$54,764.49;0,0003;232;Spot;Percentage;Recently
+250;Algorand;ALGO/BTC;ALGO;BTC;;;$30 692 274;$1.17;0,0003;155;Spot;Percentage;Recently
+251;Holo;HOT/ETH;HOT;ETH;;;$30 004 082;$0.003398;0,0003;90;Spot;Percentage;Recently
+253;Gas;GAS/BTC;GAS;BTC;;;$28 801 665;$9.40;0,0003;107;Spot;Percentage;Recently
+254;Tether;USDT/DAI;USDT;DAI;;;$28 887 084;$1.00;0,0003;750;Spot;Percentage;Recently
+255;BinanceCoin;BNB/TRY;BNB;TRY;;;$28 656 652;$271.78;0,0003;133;Spot;Percentage;Recently
+256;Dogecoin;DOGE/BUSD;DOGE;BUSD;;;$28 695 072;$0.05351;0,0003;151;Spot;Percentage;Recently
+257;Elrond;EGLD/BTC;EGLD;BTC;;;$28 645 030;$128.93;0,0003;149;Spot;Percentage;Recently
+259;Cardano;ADA/BNB;ADA;BNB;;;$28 042 661;$1.01;0,0003;152;Spot;Percentage;Recently
+260;EOSUP;EOSUP/USDT;EOSUP;USDT;;;$28 325 741;$4.06;0,0003;102;Spot;Percentage;Recently
+261;XRP;XRP/BNB;XRP;BNB;;;$27 753 548;$0.5925;0,0003;117;Spot;Percentage;Recently
+263;BinanceCoin;BNB/USDC;BNB;USDC;;;$27 407 328;$264.73;0,0003;132;Spot;Percentage;Recently
+264;Chainlink;LINK/BUSD;LINK;BUSD;;;$27 411 967;$30.89;0,0003;204;Spot;Percentage;Recently
+265;EnjinCoin;ENJ/BTC;ENJ;BTC;;;$27 281 488;$0.5289;0,0003;146;Spot;Percentage;Recently
+266;FTXToken;FTT/USDT;FTT;USDT;;;$27 125 154;$31.64;0,0003;178;Spot;Percentage;Recently
+268;Bancor;BNT/BTC;BNT;BTC;;;$26 097 611;$6.03;0,0002;134;Spot;Percentage;Recently
+270;Holo;HOT/BNB;HOT;BNB;;;$25 484 148;$0.003401;0,0002;91;Spot;Percentage;Recently
+271;EOS;EOS/BUSD;EOS;BUSD;;;$25 279 986;$4.66;0,0002;169;Spot;Percentage;Recently
+272;TrueUSD;TUSD/USDT;TUSD;USDT;;;$25 366 343;$1.00;0,0002;572;Spot;Percentage;Recently
+273;Polkadot;DOT/BNB;DOT;BNB;;;$24 865 672;$36.19;0,0002;160;Spot;Percentage;Recently
+274;ThetaFuel;TFUEL/USDT;TFUEL;USDT;;;$24 957 176;$0.08430;0,0002;135;Spot;Percentage;Recently
+275;PancakeSwap;CAKE/BTC;CAKE;BTC;;;$25 097 355;$15.13;0,0002;125;Spot;Percentage;Recently
+277;InjectiveProtocol;INJ/USDT;INJ;USDT;;;$24 916 439;$15.49;0,0002;146;Spot;Percentage;Recently
+278;XRP;XRP/ETH;XRP;ETH;;;$24 257 922;$0.5919;0,0002;137;Spot;Percentage;Recently
+280;Terra;LUNA/BUSD;LUNA;BUSD;;;$24 157 782;$7.06;0,0002;123;Spot;Percentage;Recently
+281;Loopring;LRC/USDT;LRC;USDT;;;$23 742 418;$0.6591;0,0002;162;Spot;Percentage;Recently
+283;yearn.finance;YFI/BTC;YFI;BTC;;;$23 356 195;$39,395.47;0,0002;167;Spot;Percentage;Recently
+284;UNIUP;UNIUP/USDT;UNIUP;USDT;;;$22 824 821;$34.90;0,0002;98;Spot;Percentage;Recently
+285;IOTA;IOTA/BTC;IOTA;BTC;;;$23 478 625;$1.29;0,0002;155;Spot;Percentage;Recently
+287;OntologyGas;ONG/USDT;ONG;USDT;;;$22 377 117;$0.5408;0,0002;99;Spot;Percentage;Recently
+288;Horizen;ZEN/USDT;ZEN;USDT;;;$22 282 017;$65.18;0,0002;142;Spot;Percentage;Recently
+289;HifiFinance;MFT/USDT;MFT;USDT;;;$21 853 248;$0.01606;0,0002;117;Spot;Percentage;Recently
+290;Fetch.ai;FET/USDT;FET;USDT;;;$21 828 390;$0.2679;0,0002;129;Spot;Percentage;Recently
+291;Selfkey;KEY/USDT;KEY;USDT;;;$21 524 225;$0.01160;0,0002;97;Spot;Percentage;Recently
+292;Tezos;XTZ/BTC;XTZ;BTC;;;$21 545 986;$4.14;0,0002;165;Spot;Percentage;Recently
+293;Uniswap;UNI/BUSD;UNI;BUSD;;;$21 089 664;$27.09;0,0002;167;Spot;Percentage;Recently
+294;Waves;WAVES/USDT;WAVES;USDT;;;$21 077 659;$10.45;0,0002;200;Spot;Percentage;Recently
+295;Nano;NANO/USDT;NANO;USDT;;;$21 023 757;$6.35;0,0002;131;Spot;Percentage;Recently
+296;Dash;DASH/BTC;DASH;BTC;;;$21 124 421;$274.71;0,0002;184;Spot;Percentage;Recently
+297;Ark;ARK/BTC;ARK;BTC;;;$20 743 237;$1.42;0,0002;103;Spot;Percentage;Recently
+298;0x;ZRX/BTC;ZRX;BTC;;;$20 947 734;$1.55;0,0002;118;Spot;Percentage;Recently
+299;HederaHashgraph;HBAR/USDT;HBAR;USDT;;;$20 516 617;$0.1388;0,0002;147;Spot;Percentage;Recently
+300;AlphaFinanceLab;ALPHA/BTC;ALPHA;BTC;;;$20 130 801;$1.48;0,0002;119;Spot;Percentage;Recently
+301;Dent;DENT/ETH;DENT;ETH;;;$19 007 325;$0.002154;0,0002;87;Spot;Percentage;Recently
+302;SUN;SUN/USDT;SUN;USDT;;;$19 625 852;$17.13;0,0002;103;Spot;Percentage;Recently
+303;ICON;ICX/BTC;ICX;BTC;;;$19 728 406;$1.83;0,0002;131;Spot;Percentage;Recently
+304;Polkadot;DOT/EUR;DOT;EUR;;;$19 496 714;$36.43;0,0002;159;Spot;Percentage;Recently
+305;Swipe;SXP/BUSD;SXP;BUSD;;;$19 520 074;$2.76;0,0002;146;Spot;Percentage;Recently
+306;Orchid;OXT/USDT;OXT;USDT;;;$19 201 010;$0.5855;0,0002;114;Spot;Percentage;Recently
+307;BasicAttentionToken;BAT/BTC;BAT;BTC;;;$19 157 450;$0.5321;0,0002;141;Spot;Percentage;Recently
+309;Ren;REN/BTC;REN;BTC;;;$19 281 007;$1.29;0,0002;152;Spot;Percentage;Recently
+310;Ontology;ONT/BTC;ONT;BTC;;;$18 854 705;$1.21;0,0002;121;Spot;Percentage;Recently
+311;Bitcoin;BTC/BRL;BTC;BRL;;;$18 723 229;$54,877.31;0,0002;258;Spot;Percentage;Recently
+312;Bitcoin;BTC/DAI;BTC;DAI;;;$18 645 436;$53,573.23;0,0002;235;Spot;Percentage;Recently
+313;Filecoin;FIL/BTC;FIL;BTC;;;$18 838 574;$39.53;0,0002;167;Spot;Percentage;Recently
+314;ADAUP;ADAUP/USDT;ADAUP;USDT;;;$18 385 268;$82.60;0,0002;92;Spot;Percentage;Recently
+315;Stellar;XLM/BUSD;XLM;BUSD;;;$18 568 438;$0.4599;0,0002;176;Spot;Percentage;Recently
+316;FTXToken;FTT/BTC;FTT;BTC;;;$18 389 708;$31.71;0,0002;140;Spot;Percentage;Recently
+317;Aion;AION/BTC;AION;BTC;;;$18 248 482;$0.2103;0,0002;107;Spot;Percentage;Recently
+318;Venus;XVS/BTC;XVS;BTC;;;$18 010 592;$77.77;0,0002;96;Spot;Percentage;Recently
+319;TrustWalletToken;TWT/USDT;TWT;USDT;;;$17 593 771;$0.7169;0,0002;149;Spot;Percentage;Recently
+320;TomoChain;TOMO/USDT;TOMO;USDT;;;$17 788 685;$1.72;0,0002;142;Spot;Percentage;Recently
+321;TheSandbox;SAND/BTC;SAND;BTC;;;$17 719 808;$0.2843;0,0002;119;Spot;Percentage;Recently
+322;AustralianDollar;AUD/USDT;AUD;USDT;;;$17 582 148;$0.7782;0,0002;261;Spot;Percentage;Recently
+323;Zilliqa;ZIL/BTC;ZIL;BTC;;;$17 638 794;$0.1224;0,0002;105;Spot;Percentage;Recently
+324;COTI;COTI/BTC;COTI;BTC;;;$17 084 748;$0.1901;0,0002;123;Spot;Percentage;Recently
+325;UnifiProtocolDAO;UNFI/USDT;UNFI;USDT;;;$17 332 424;$22.04;0,0002;126;Spot;Percentage;Recently
+326;Terra;LUNA/BNB;LUNA;BNB;;;$17 075 160;$7.07;0,0002;121;Spot;Percentage;Recently
+327;XTZUP;XTZUP/USDT;XTZUP;USDT;;;$16 823 637;$0.7893;0,0002;121;Spot;Percentage;Recently
+329;OMGNetwork;OMG/BTC;OMG;BTC;;;$16 443 610;$5.54;0,0002;155;Spot;Percentage;Recently
+330;DIA;DIA/USDT;DIA;USDT;;;$16 286 364;$2.67;0,0002;125;Spot;Percentage;Recently
+331;Flamingo;FLM/USDT;FLM;USDT;;;$16 160 305;$0.4333;0,0002;164;Spot;Percentage;Recently
+332;XLMUP;XLMUP/USDT;XLMUP;USDT;;;$16 092 723;$18.77;0,0002;89;Spot;Percentage;Recently
+333;THETA;THETA/BTC;THETA;BTC;;;$16 260 131;$3.26;0,0002;157;Spot;Percentage;Recently
+334;LTCUP;LTCUP/USDT;LTCUP;USDT;;;$16 135 620;$37.40;0,0002;105;Spot;Percentage;Recently
+335;Kusama;KSM/BTC;KSM;BTC;;;$16 104 564;$246.90;0,0002;155;Spot;Percentage;Recently
+336;PoundSterling;GBP/BUSD;GBP;BUSD;;;$15 922 625;$1.40;0,0002;435;Spot;Percentage;Recently
+337;Bitcoin;BTC/PAX;BTC;PAX;;;$15 842 348;$53,346.40;0,0002;219;Spot;Percentage;Recently
+338;ETHDOWN;ETHDOWN/USDT;ETHDOWN;USDT;;;$15 979 112;$0.007913;0,0002;95;Spot;Percentage;Recently
+339;Decentraland;MANA/USDT;MANA;USDT;;;$15 686 326;$0.2777;0,0001;152;Spot;Percentage;Recently
+340;Tellor;TRB/USDT;TRB;USDT;;;$15 664 226;$40.46;0,0001;144;Spot;Percentage;Recently
+341;BitcoinGold;BTG/BTC;BTG;BTC;;;$15 336 047;$31.91;0,0001;117;Spot;Percentage;Recently
+342;OasisNetwork;ROSE/USDT;ROSE;USDT;;;$15 416 328;$0.1074;0,0001;161;Spot;Percentage;Recently
+343;BeaconETH;BETH/ETH;BETH;ETH;;;$15 286 395;$1,734.49;0,0001;403;Spot;Percentage;Recently
+344;Bitcoin;BTC/TUSD;BTC;TUSD;;;$15 284 647;$53,369.95;0,0001;164;Spot;Percentage;Recently
+345;Elrond;EGLD/BUSD;EGLD;BUSD;;;$15 264 524;$128.66;0,0001;134;Spot;Percentage;Recently
+346;Zcash;ZEC/BTC;ZEC;BTC;;;$15 185 647;$145.19;0,0001;166;Spot;Percentage;Recently
+347;Harmony;ONE/USDT;ONE;USDT;;;$15 136 043;$0.02621;0,0001;132;Spot;Percentage;Recently
+348;Venus;XVS/BNB;XVS;BNB;;;$15 125 193;$78.22;0,0001;101;Spot;Percentage;Recently
+349;Maker;MKR/USDT;MKR;USDT;;;$14 771 133;$2,327.62;0,0001;163;Spot;Percentage;Recently
+350;Civic;CVC/USDT;CVC;USDT;;;$14 836 978;$0.4113;0,0001;126;Spot;Percentage;Recently
+351;Komodo;KMD/USDT;KMD;USDT;;;$14 763 172;$1.49;0,0001;106;Spot;Percentage;Recently
+352;EthereumClassic;ETC/BTC;ETC;BTC;;;$14 686 002;$13.75;0,0001;181;Spot;Percentage;Recently
+353;IoTeX;IOTX/USDT;IOTX;USDT;;;$14 682 801;$0.02498;0,0001;104;Spot;Percentage;Recently
+355;ThetaFuel;TFUEL/BTC;TFUEL;BTC;;;$14 555 785;$0.08484;0,0001;99;Spot;Percentage;Recently
+356;WazirX;WRX/USDT;WRX;USDT;;;$14 553 146;$0.3075;0,0001;108;Spot;Percentage;Recently
+357;KyberNetwork;KNC/USDT;KNC;USDT;;;$14 166 175;$1.91;0,0001;143;Spot;Percentage;Recently
+358;BitcoinCash;BCH/BUSD;BCH;BUSD;;;$14 327 041;$616.25;0,0001;190;Spot;Percentage;Recently
+359;Dogecoin;DOGE/EUR;DOGE;EUR;;;$14 056 365;$0.05381;0,0001;113;Spot;Percentage;Recently
+360;XRP;XRP/TRY;XRP;TRY;;;$13 685 525;$0.6057;0,0001;119;Spot;Percentage;Recently
+361;Cardano;ADA/USDC;ADA;USDC;;;$13 628 550;$1.01;0,0001;117;Spot;Percentage;Recently
+362;VeChain;VET/BUSD;VET;BUSD;;;$13 675 359;$0.04877;0,0001;151;Spot;Percentage;Recently
+363;Avalanche;AVAX/BTC;AVAX;BTC;;;$13 641 582;$32.34;0,0001;135;Spot;Percentage;Recently
+365;BandProtocol;BAND/BTC;BAND;BTC;;;$13 288 697;$15.14;0,0001;122;Spot;Percentage;Recently
+366;Synthetix;SNX/BTC;SNX;BTC;;;$13 275 315;$20.78;0,0001;177;Spot;Percentage;Recently
+367;EOSDOWN;EOSDOWN/USDT;EOSDOWN;USDT;;;$13 138 917;$0.2611;0,0001;97;Spot;Percentage;Recently
+368;HARDProtocol;HARD/USDT;HARD;USDT;;;$12 972 255;$1.77;0,0001;107;Spot;Percentage;Recently
+369;BNBDOWN;BNBDOWN/USDT;BNBDOWN;USDT;;;$13 006 950;$0.002851;0,0001;67;Spot;Percentage;Recently
+370;XRPDOWN;XRPDOWN/USDT;XRPDOWN;USDT;;;$13 461 382;$0.001154;0,0001;85;Spot;Percentage;Recently
+371;UNIDOWN;UNIDOWN/USDT;UNIDOWN;USDT;;;$13 045 806;$0.005392;0,0001;72;Spot;Percentage;Recently
+372;TRXUP;TRXUP/USDT;TRXUP;USDT;;;$12 670 732;$3.67;0,0001;111;Spot;Percentage;Recently
+373;THORChain;RUNE/BTC;RUNE;BTC;;;$12 553 115;$4.30;0,0001;126;Spot;Percentage;Recently
+374;Venus;XVS/BUSD;XVS;BUSD;;;$12 463 713;$77.89;0,0001;90;Spot;Percentage;Recently
+375;Litecoin;LTC/EUR;LTC;EUR;;;$12 393 930;$206.32;0,0001;175;Spot;Percentage;Recently
+376;OriginProtocol;OGN/USDT;OGN;USDT;;;$12 020 396;$0.3708;0,0001;101;Spot;Percentage;Recently
+377;BitcoinStandardHashrateToken;BTCST/BTC;BTCST;BTC;;;$12 124 608;$292.76;0,0001;86;Spot;Percentage;Recently
+378;Chainlink;LINK/ETH;LINK;ETH;;;$12 208 832;$30.95;0,0001;140;Spot;Percentage;Recently
+379;SXPUP;SXPUP/USDT;SXPUP;USDT;;;$12 415 518;$1.81;0,0001;97;Spot;Percentage;Recently
+380;iExecRLC;RLC/USDT;RLC;USDT;;;$12 161 233;$1.85;0,0001;145;Spot;Percentage;Recently
+381;Verge;XVG/BTC;XVG;BTC;;;$11 771 731;$0.02199;0,0001;63;Spot;Percentage;Recently
+382;DigiByte;DGB/USDT;DGB;USDT;;;$12 139 880;$0.06866;0,0001;121;Spot;Percentage;Recently
+383;BinanceUSD;BUSD/TRY;BUSD;TRY;;;$11 878 257;$1.02;0,0001;313;Spot;Percentage;Recently
+384;FILUP;FILUP/USDT;FILUP;USDT;;;$12 065 513;$4.97;0,0001;76;Spot;Percentage;Recently
+385;DODO;DODO/BTC;DODO;BTC;;;$12 090 057;$5.69;0,0001;94;Spot;Percentage;Recently
+386;pNetwork;PNT/USDT;PNT;USDT;;;$11 835 499;$1.57;0,0001;99;Spot;Percentage;Recently
+387;VeThorToken;VTHO/USDT;VTHO;USDT;;;$11 778 628;$0.005802;0,0001;135;Spot;Percentage;Recently
+388;JUST;JST/USDT;JST;USDT;;;$11 761 938;$0.05621;0,0001;152;Spot;Percentage;Recently
+389;PaxosStandard;PAX/USDT;PAX;USDT;;;$11 750 842;$1.00;0,0001;556;Spot;Percentage;Recently
+390;CertiK;CTK/USDT;CTK;USDT;;;$11 694 695;$1.87;0,0001;133;Spot;Percentage;Recently
+391;Fetch.ai;FET/BTC;FET;BTC;;;$11 665 577;$0.2690;0,0001;105;Spot;Percentage;Recently
+392;DOTUP;DOTUP/USDT;DOTUP;USDT;;;$11 610 303;$162.78;0,0001;111;Spot;Percentage;Recently
+393;DODO;DODO/BUSD;DODO;BUSD;;;$11 777 535;$5.67;0,0001;97;Spot;Percentage;Recently
+394;Akropolis;AKRO/USDT;AKRO;USDT;;;$11 573 052;$0.03828;0,0001;127;Spot;Percentage;Recently
+395;BellaProtocol;BEL/USDT;BEL;USDT;;;$11 389 124;$2.56;0,0001;134;Spot;Percentage;Recently
+396;Ravencoin;RVN/BUSD;RVN;BUSD;;;$11 441 211;$0.1808;0,0001;111;Spot;Percentage;Recently
+397;Ethereum;ETH/TRY;ETH;TRY;;;$11 391 759;$1,789.63;0,0001;170;Spot;Percentage;Recently
+398;1inch;1INCH/BTC;1INCH;BTC;;;$11 294 850;$4.58;0,0001;142;Spot;Percentage;Recently
+399;XRP;XRP/GBP;XRP;GBP;;;$11 210 967;$0.5948;0,0001;129;Spot;Percentage;Recently
+400;YFIUP;YFIUP/USDT;YFIUP;USDT;;;$11 292 690;$8.66;0,0001;95;Spot;Percentage;Recently
+401;YFIUP;YFIUP/USDT;YFIUP;USDT;;;$11 096 566;$8.50;0,0001;102;Spot;Percentage;Recently
+402;BinanceUSD;BUSD/DAI;BUSD;DAI;;;$11 053 329;$1.00;0,0001;821;Spot;Percentage;Recently
+403;XRP;XRP/GBP;XRP;GBP;;;$11 051 055;$0.5880;0,0001;131;Spot;Percentage;Recently
+404;Qtum;QTUM/BTC;QTUM;BTC;;;$11 031 624;$6.34;0,0001;154;Spot;Percentage;Recently
+405;SUSHIUP;SUSHIUP/USDT;SUSHIUP;USDT;;;$10 909 609;$63.28;0,0001;103;Spot;Percentage;Recently
+406;BitShares;BTS/USDT;BTS;USDT;;;$10 899 872;$0.05420;0,0001;134;Spot;Percentage;Recently
+407;Komodo;KMD/BTC;KMD;BTC;;;$10 872 119;$1.50;0,0001;99;Spot;Percentage;Recently
+408;BinanceCoin;BNB/AUD;BNB;AUD;;;$10 500 270;$268.51;0,0001;136;Spot;Percentage;Recently
+409;Lisk;LSK/USDT;LSK;USDT;;;$10 470 239;$3.29;0,0001;116;Spot;Percentage;Recently
+410;ICON;ICX/BUSD;ICX;BUSD;;;$10 462 718;$1.83;0,0001;142;Spot;Percentage;Recently
+411;DigiByte;DGB/BTC;DGB;BTC;;;$10 376 352;$0.06927;0,0001;91;Spot;Percentage;Recently
+412;StormX;STMX/USDT;STMX;USDT;;;$10 319 321;$0.01122;0,0001;105;Spot;Percentage;Recently
+413;Frontier;FRONT/BUSD;FRONT;BUSD;;;$10 294 617;$3.43;0,0001;124;Spot;Percentage;Recently
+414;Balancer;BAL/USDT;BAL;USDT;;;$10 287 828;$40.45;0,0001;164;Spot;Percentage;Recently
+415;Siacoin;SC/USDT;SC;USDT;;;$10 032 008;$0.01168;0,0001;141;Spot;Percentage;Recently
+416;ReserveRights;RSR/BTC;RSR;BTC;;;$9 984 091;$0.04886;0,0001;85;Spot;Percentage;Recently
+417;BurgerSwap;BURGER/BNB;BURGER;BNB;;;$9 900 262;$7.47;0,0001;148;Spot;Percentage;Recently
+418;Fantom;FTM/BNB;FTM;BNB;;;$9 845 923;$0.3771;0,0001;77;Spot;Percentage;Recently
+419;LINKUP;LINKUP/USDT;LINKUP;USDT;;;$9 843 678;$21.54;0,0001;91;Spot;Percentage;Recently
+420;Solana;SOL/BUSD;SOL;BUSD;;;$9 828 797;$10.69;0,0001;163;Spot;Percentage;Recently
+421;OceanProtocol;OCEAN/BTC;OCEAN;BTC;;;$9 802 295;$1.10;0,0001;137;Spot;Percentage;Recently
+422;CelerNetwork;CELR/USDT;CELR;USDT;;;$9 800 356;$0.02031;0,0001;104;Spot;Percentage;Recently
+423;VeChain;VET/ETH;VET;ETH;;;$9 800 220;$0.04916;0,0001;124;Spot;Percentage;Recently
+424;Aragon;ANT/USDT;ANT;USDT;;;$9 771 475;$5.41;0,0001;125;Spot;Percentage;Recently
+425;BitTorrent;BTT/BUSD;BTT;BUSD;;;$9 760 292;$0.001676;0,0001;123;Spot;Percentage;Recently
+426;Stacks;STX/USDT;STX;USDT;;;$9 739 848;$0.7167;0,0001;153;Spot;Percentage;Recently
+427;CurveDAOToken;CRV/BTC;CRV;BTC;;;$9 466 393;$2.52;0,0001;145;Spot;Percentage;Recently
+428;IOST;IOST/BNB;IOST;BNB;;;$9 465 185;$0.06204;0,0001;76;Spot;Percentage;Recently
+429;XRP;XRP/USDC;XRP;USDC;;;$9 420 969;$0.5804;0,0001;125;Spot;Percentage;Recently
+430;SKALENetwork;SKL/USDT;SKL;USDT;;;$9 413 299;$0.2625;0,0001;120;Spot;Percentage;Recently
+431;Aave;AAVE/BUSD;AAVE;BUSD;;;$9 312 340;$412.42;0,0001;150;Spot;Percentage;Recently
+432;Litentry;LIT/BTC;LIT;BTC;;;$9 271 114;$9.32;0,0001;91;Spot;Percentage;Recently
+433;Avalanche;AVAX/TRY;AVAX;TRY;;;$9 242 104;$32.82;0,0001;118;Spot;Percentage;Recently
+434;SafePal;SFP/BUSD;SFP;BUSD;;;$9 234 200;$2.43;0,0001;104;Spot;Percentage;Recently
+435;Compound;COMP/BTC;COMP;BTC;;;$9 181 017;$442.09;0,0001;168;Spot;Percentage;Recently
+436;BinanceCoin;BNB/DAI;BNB;DAI;;;$9 165 450;$264.99;0,0001;156;Spot;Percentage;Recently
+437;OrionProtocol;ORN/USDT;ORN;USDT;;;$9 154 074;$9.00;0,0001;115;Spot;Percentage;Recently
+438;Harmony;ONE/BTC;ONE;BTC;;;$9 153 446;$0.02524;0,0001;68;Spot;Percentage;Recently
+439;Ethereum;ETH/AUD;ETH;AUD;;;$9 089 366;$1,761.99;0,0001;181;Spot;Percentage;Recently
+440;Ethereum;ETH/PAX;ETH;PAX;;;$9 055 466;$1,743.59;0,0001;206;Spot;Percentage;Recently
+441;TrueUSD;TUSD/BUSD;TUSD;BUSD;;;$9 017 082;$1.00;0,0001;388;Spot;Percentage;Recently
+442;Polygon;MATIC/BUSD;MATIC;BUSD;;;$8 964 953;$0.1520;0,0001;113;Spot;Percentage;Recently
+443;Decred;DCR/BTC;DCR;BTC;;;$8 934 911;$152.45;0,0001;116;Spot;Percentage;Recently
+444;SushiSwap;SUSHI/BUSD;SUSHI;BUSD;;;$8 921 651;$16.25;0,0001;148;Spot;Percentage;Recently
+445;Cosmos;ATOM/BUSD;ATOM;BUSD;;;$8 852 020;$19.58;0,0001;129;Spot;Percentage;Recently
+446;WINk;WIN/USDT;WIN;USDT;;;$8 847 900;$0.0002308;0,0001;105;Spot;Percentage;Recently
+447;SafePal;SFP/BTC;SFP;BTC;;;$8 822 554;$2.44;0,0001;89;Spot;Percentage;Recently
+448;Serum;SRM/BTC;SRM;BTC;;;$8 805 713;$4.71;0,0001;139;Spot;Percentage;Recently
+449;FraxShare;FXS/BUSD;FXS;BUSD;;;$8 668 410;$9.59;0,0001;132;Spot;Percentage;Recently
+450;Cartesi;CTSI/USDT;CTSI;USDT;;;$8 657 853;$0.1928;0,0001;99;Spot;Percentage;Recently
+451;Dogecoin;DOGE/TRY;DOGE;TRY;;;$8 586 743;$0.05495;0,0001;102;Spot;Percentage;Recently
+452;BinanceCoin;BNB/BRL;BNB;BRL;;;$8 582 688;$270.88;0,0001;132;Spot;Percentage;Recently
+453;Litecoin;LTC/ETH;LTC;ETH;;;$8 549 088;$205.67;0,0001;136;Spot;Percentage;Recently
+454;Ravencoin;RVN/BNB;RVN;BNB;;;$8 367 655;$0.1811;0,0001;77;Spot;Percentage;Recently
+455;TheGraph;GRT/EUR;GRT;EUR;;;$8 299 754;$2.06;0,0001;121;Spot;Percentage;Recently
+456;AxieInfinity;AXS/USDT;AXS;USDT;;;$8 268 454;$1.64;0,0001;114;Spot;Percentage;Recently
+457;AAVEUP;AAVEUP/USDT;AAVEUP;USDT;;;$8 120 622;$138.54;0,0001;122;Spot;Percentage;Recently
+458;ADADOWN;ADADOWN/USDT;ADADOWN;USDT;;;$8 094 328;$0.001420;0,0001;86;Spot;Percentage;Recently
+459;Chiliz;CHZ/BTC;CHZ;BTC;;;$8 068 582;$0.04779;0,0001;78;Spot;Percentage;Recently
+460;InjectiveProtocol;INJ/BTC;INJ;BTC;;;$8 034 694;$15.83;0,0001;111;Spot;Percentage;Recently
+461;Chainlink;LINK/EUR;LINK;EUR;;;$8 023 239;$31.06;0,0001;146;Spot;Percentage;Recently
+462;EOS;EOS/ETH;EOS;ETH;;;$8 005 301;$4.66;0,0001;172;Spot;Percentage;Recently
+463;Contentos;COS/USDT;COS;USDT;;;$7 998 619;$0.01756;0,0001;113;Spot;Percentage;Recently
+464;OntologyGas;ONG/BTC;ONG;BTC;;;$7 892 402;$0.5477;0,0001;91;Spot;Percentage;Recently
+465;Loopring;LRC/BTC;LRC;BTC;;;$7 790 200;$0.6599;0,0001;136;Spot;Percentage;Recently
+466;TRON;TRX/BUSD;TRX;BUSD;;;$7 788 748;$0.05338;0,0001;164;Spot;Percentage;Recently
+467;IoTeX;IOTX/BTC;IOTX;BTC;;;$7 740 560;$0.02524;0,0001;55;Spot;Percentage;Recently
+468;Tether;USDT/BRL;USDT;BRL;;;$7 661 653;$1.02;0,0001;305;Spot;Percentage;Recently
+469;bZxProtocol;BZRX/BTC;BZRX;BTC;;;$7 627 168;$0.5724;0,0001;99;Spot;Percentage;Recently
+470;PIVX;PIVX/ETH;PIVX;ETH;;;$7 587 745;$1.65;0,0001;69;Spot;Percentage;Recently
+471;Storj;STORJ/USDT;STORJ;USDT;;;$7 487 834;$0.7294;0,0001;133;Spot;Percentage;Recently
+472;CelerNetwork;CELR/BTC;CELR;BTC;;;$7 478 874;$0.01987;0,0001;57;Spot;Percentage;Recently
+473;Swipe;SXP/BNB;SXP;BNB;;;$7 462 119;$2.76;0,0001;110;Spot;Percentage;Recently
+474;Lisk;LSK/BTC;LSK;BTC;;;$7 290 791;$3.30;0,0001;110;Spot;Percentage;Recently
+475;Neo;NEO/BUSD;NEO;BUSD;;;$7 254 213;$47.76;0,0001;138;Spot;Percentage;Recently
+476;Tezos;XTZ/BUSD;XTZ;BUSD;;;$7 188 875;$4.14;0,0001;143;Spot;Percentage;Recently
+477;KyberNetwork;KNC/BTC;KNC;BTC;;;$7 066 151;$1.93;0,0001;148;Spot;Percentage;Recently
+478;IOST;IOST/ETH;IOST;ETH;;;$6 971 370;$0.06239;0,0001;87;Spot;Percentage;Recently
+479;NewBitShares;NBS/USDT;NBS;USDT;;;$6 951 594;$0.02233;0,0001;131;Spot;Percentage;Recently
+480;Elrond;EGLD/BNB;EGLD;BNB;;;$6 939 935;$128.81;0,0001;108;Spot;Percentage;Recently
+481;TomoChain;TOMO/BTC;TOMO;BTC;;;$6 875 401;$1.74;0,0001;120;Spot;Percentage;Recently
+482;Kusama;KSM/BUSD;KSM;BUSD;;;$6 871 284;$252.08;0,0001;112;Spot;Percentage;Recently
+483;SpartanProtocol;SPARTA/BNB;SPARTA;BNB;;;$6 815 389;$1.36;0,0001;85;Spot;Percentage;Recently
+484;Bluzelle;BLZ/USDT;BLZ;USDT;;;$6 810 979;$0.1793;0,0001;138;Spot;Percentage;Recently
+485;Beam;BEAM/USDT;BEAM;USDT;;;$6 778 667;$0.7153;0,0001;111;Spot;Percentage;Recently
+486;DIA;DIA/BTC;DIA;BTC;;;$6 767 742;$2.69;0,0001;106;Spot;Percentage;Recently
+487;Filecoin;FIL/BUSD;FIL;BUSD;;;$6 712 751;$39.00;0,0001;136;Spot;Percentage;Recently
+488;Solana;SOL/BNB;SOL;BNB;;;$6 702 114;$10.75;0,0001;88;Spot;Percentage;Recently
+489;BitcoinStandardHashrateToken;BTCST/BUSD;BTCST;BUSD;;;$6 476 422;$292.36;0,0001;90;Spot;Percentage;Recently
+490;StormX;STMX/BTC;STMX;BTC;;;$6 380 523;$0.01072;0,0001;45;Spot;Percentage;Recently
+491;Stellar;XLM/EUR;XLM;EUR;;;$6 353 437;$0.4631;0,0001;129;Spot;Percentage;Recently
+492;WazirX;WRX/BTC;WRX;BTC;;;$6 334 722;$0.3107;0,0001;96;Spot;Percentage;Recently
+493;Skycoin;SKY/BTC;SKY;BTC;;;$6 332 122;$2.28;0,0001;114;Spot;Percentage;Recently
+494;Wanchain;WAN/USDT;WAN;USDT;;;$6 328 628;$0.9123;0,0001;112;Spot;Percentage;Recently
+495;Algorand;ALGO/BUSD;ALGO;BUSD;;;$6 310 202;$1.16;0,0001;145;Spot;Percentage;Recently
+496;BitTorrent;BTT/BNB;BTT;BNB;;;$6 269 404;$0.001678;0,0001;87;Spot;Percentage;Recently
+497;Decentraland;MANA/BTC;MANA;BTC;;;$6 265 130;$0.2824;0,0001;125;Spot;Percentage;Recently
+498;Horizen;ZEN/BTC;ZEN;BTC;;;$6 216 718;$64.67;0,0001;120;Spot;Percentage;Recently
+499;Bitcoin;BTC/BIDR;BTC;BIDR;;;$6 157 777;$53,520.28;0,0001;196;Spot;Percentage;Recently
+500;BinanceCoin;BNB/BIDR;BNB;BIDR;;;$6 120 794;$265.22;0,0001;128;Spot;Percentage;Recently
+501;Waves;WAVES/BTC;WAVES;BTC;;;$6 117 884;$10.46;0,0001;151;Spot;Percentage;Recently
+502;Secret;SCRT/BTC;SCRT;BTC;;;$6 108 701;$4.06;0,0001;193;Spot;Percentage;Recently
+503;Aavegotchi;GHST/BUSD;GHST;BUSD;;;$6 086 236;$1.23;0,0001;101;Spot;Percentage;Recently
+504;Dash;DASH/BUSD;DASH;BUSD;;;$6 052 859;$273.79;0,0001;134;Spot;Percentage;Recently
+505;Prosper;PROS/ETH;PROS;ETH;;;$6 050 989;$7.23;0,0001;95;Spot;Percentage;Recently
+506;Uniswap;UNI/BNB;UNI;BNB;;;$6 047 652;$27.22;0,0001;133;Spot;Percentage;Recently
+507;Litecoin;LTC/USDC;LTC;USDC;;;$5 980 389;$205.56;0,0001;105;Spot;Percentage;Recently
+508;AlphaFinanceLab;ALPHA/BUSD;ALPHA;BUSD;;;$5 976 842;$1.48;0,0001;106;Spot;Percentage;Recently
+509;Kava.io;KAVA/BTC;KAVA;BTC;;;$5 930 796;$4.15;0,0001;126;Spot;Percentage;Recently
+510;Ethereum;ETH/TUSD;ETH;TUSD;;;$5 862 978;$1,746.38;0,0001;146;Spot;Percentage;Recently
+511;PowerLedger;POWR/BTC;POWR;BTC;;;$5 788 805;$0.2502;0,0001;113;Spot;Percentage;Recently
+512;Decred;DCR/USDT;DCR;USDT;;;$5 731 487;$152.15;0,0001;106;Spot;Percentage;Recently
+513;PAXGold;PAXG/USDT;PAXG;USDT;;;$5 685 755;$1,832.12;0,0001;211;Spot;Percentage;Recently
+514;VoyagerToken;BQX/ETH;BQX;ETH;;;$5 664 009;$6.45;0,0001;84;Spot;Percentage;Recently
+515;Waltonchain;WTC/USDT;WTC;USDT;;;$5 652 662;$1.04;0,0001;98;Spot;Percentage;Recently
+516;Cocos-BCX;COCOS/USDT;COCOS;USDT;;;$5 625 824;$0.9002;0,0001;107;Spot;Percentage;Recently
+517;YFIDOWN;YFIDOWN/USDT;YFIDOWN;USDT;;;$5 621 422;$0.007342;0,0001;80;Spot;Percentage;Recently
+518;UnifiProtocolDAO;UNFI/BTC;UNFI;BTC;;;$5 604 682;$22.67;0,0001;99;Spot;Percentage;Recently
+519;NEM;XEM/ETH;XEM;ETH;;;$5 446 311;$0.5432;0,0001;94;Spot;Percentage;Recently
+520;MovieBloc;MBL/USDT;MBL;USDT;;;$5 441 250;$0.003600;0,0001;82;Spot;Percentage;Recently
+521;Bitcoin;BTC/RUB;BTC;RUB;;;$5 439 003;$53,833.78;0,0001;192;Spot;Percentage;Recently
+522;Stacks;STX/BTC;STX;BTC;;;$5 403 504;$0.7206;0,0001;136;Spot;Percentage;Recently
+523;Chainlink;LINK/USDC;LINK;USDC;;;$5 402 178;$30.77;0,0001;131;Spot;Percentage;Recently
+524;OriginProtocol;OGN/BTC;OGN;BTC;;;$5 353 064;$0.3732;0,0001;99;Spot;Percentage;Recently
+525;Chromia;CHR/USDT;CHR;USDT;;;$5 257 390;$0.05836;0;97;Spot;Percentage;Recently
+526;AustralianDollar;AUD/BUSD;AUD;BUSD;;;$5 228 772;$0.7816;0;277;Spot;Percentage;Recently
+527;UMA;UMA/USDT;UMA;USDT;;;$5 220 467;$23.65;0;153;Spot;Percentage;Recently
+528;StandardTokenizationProtocol;STPT/USDT;STPT;USDT;;;$5 177 068;$0.04341;0;101;Spot;Percentage;Recently
+529;EasyFi;EASY/ETH;EASY;ETH;;;$5 158 711;$19.73;0;131;Spot;Percentage;Recently
+530;DuskNetwork;DUSK/USDT;DUSK;USDT;;;$5 078 985;$0.2581;0;104;Spot;Percentage;Recently
+531;EthereumClassic;ETC/BUSD;ETC;BUSD;;;$5 022 017;$13.71;0;140;Spot;Percentage;Recently
+532;Neblio;NEBL/BTC;NEBL;BTC;;;$4 992 074;$2.44;0;91;Spot;Percentage;Recently
+533;Celo;CELO/USDT;CELO;USDT;;;$4 973 892;$4.61;0;107;Spot;Percentage;Recently
+534;Swipe;SXP/EUR;SXP;EUR;;;$4 947 824;$2.76;0;100;Spot;Percentage;Recently
+535;Zilliqa;ZIL/BUSD;ZIL;BUSD;;;$4 947 169;$0.1235;0;113;Spot;Percentage;Recently
+536;Filecoin;FIL/BNB;FIL;BNB;;;$4 887 862;$39.19;0;119;Spot;Percentage;Recently
+537;yearn.finance;YFI/BUSD;YFI;BUSD;;;$4 876 239;$39,149.03;0;142;Spot;Percentage;Recently
+538;WrappedBitcoin;WBTC/ETH;WBTC;ETH;;;$4 868 418;$53,604.43;0;107;Spot;Percentage;Recently
+539;LoomNetwork;LOOM/BTC;LOOM;BTC;;;$4 770 349;$0.1326;0;88;Spot;Percentage;Recently
+540;OasisNetwork;ROSE/BTC;ROSE;BTC;;;$4 750 982;$0.1079;0;100;Spot;Percentage;Recently
+541;Polymath;POLY/BTC;POLY;BTC;;;$4 676 954;$0.3018;0;101;Spot;Percentage;Recently
+542;TRXDOWN;TRXDOWN/USDT;TRXDOWN;USDT;;;$4 638 508;$0.1551;0;100;Spot;Percentage;Recently
+543;AdExNetwork;ADX/BTC;ADX;BTC;;;$4 635 887;$0.6776;0;159;Spot;Percentage;Recently
+544;NervosNetwork;CKB/USDT;CKB;USDT;;;$4 630 868;$0.009608;0;146;Spot;Percentage;Recently
+545;Siacoin;SC/BTC;SC;BTC;;;$4 615 897;$0.01181;0;46;Spot;Percentage;Recently
+546;Avalanche;AVAX/BUSD;AVAX;BUSD;;;$4 600 996;$32.01;0;102;Spot;Percentage;Recently
+547;IRISnet;IRIS/USDT;IRIS;USDT;;;$4 542 125;$0.1292;0;93;Spot;Percentage;Recently
+548;Cartesi;CTSI/BTC;CTSI;BTC;;;$4 538 419;$0.1928;0;97;Spot;Percentage;Recently
+549;Neo;NEO/ETH;NEO;ETH;;;$4 523 499;$48.05;0;120;Spot;Percentage;Recently
+550;SmallLovePotion;SLP/ETH;SLP;ETH;;;$4 511 873;$0.06808;0;85;Spot;Percentage;Recently
+551;Ontology;ONT/BUSD;ONT;BUSD;;;$4 447 565;$1.22;0;119;Spot;Percentage;Recently
+552;IOTA;IOTA/BUSD;IOTA;BUSD;;;$4 429 581;$1.30;0;113;Spot;Percentage;Recently
+553;NEARProtocol;NEAR/BTC;NEAR;BTC;;;$4 365 918;$3.61;0;130;Spot;Percentage;Recently
+554;TRON;TRX/ETH;TRX;ETH;;;$4 336 595;$0.05363;0;140;Spot;Percentage;Recently
+555;BounceToken;BOT/BUSD;BOT;BUSD;;;$4 328 944;$2,783.79;0;0;Spot;Percentage;34hoursago
+556;DFI.Money;YFII/BTC;YFII;BTC;;;$4 305 570;$2,746.55;0;152;Spot;Percentage;Recently
+557;Contentos;COS/BTC;COS;BTC;;;$4 296 820;$0.01772;0;55;Spot;Percentage;Recently
+558;Utrust;UTK/USDT;UTK;USDT;;;$4 287 973;$0.3853;0;130;Spot;Percentage;Recently
+559;Orchid;OXT/BTC;OXT;BTC;;;$4 241 429;$0.5880;0;104;Spot;Percentage;Recently
+560;HifiFinance;MFT/ETH;MFT;ETH;;;$4 222 887;$0.01639;0;93;Spot;Percentage;Recently
+561;OrionProtocol;ORN/BTC;ORN;BTC;;;$4 221 528;$9.07;0;91;Spot;Percentage;Recently
+562;TrueFi;TRU/USDT;TRU;USDT;;;$4 200 862;$0.3826;0;102;Spot;Percentage;Recently
+563;Tether;USDT/BIDR;USDT;BIDR;;;$4 189 120;$1.00;0;167;Spot;Percentage;Recently
+564;Aave;AAVE/ETH;AAVE;ETH;;;$4 187 259;$413.97;0;132;Spot;Percentage;Recently
+565;Litentry;LIT/BUSD;LIT;BUSD;;;$4 152 423;$9.30;0;78;Spot;Percentage;Recently
+566;Wing;WING/USDT;WING;USDT;;;$4 121 299;$28.51;0;109;Spot;Percentage;Recently
+567;Litecoin;LTC/BNB;LTC;BNB;;;$4 060 955;$205.59;0;98;Spot;Percentage;Recently
+568;pNetwork;PNT/BTC;PNT;BTC;;;$4 058 340;$1.57;0;84;Spot;Percentage;Recently
+569;Stratis;STRAX/USDT;STRAX;USDT;;;$4 025 803;$1.45;0;122;Spot;Percentage;Recently
+570;Frontier;FRONT/BTC;FRONT;BTC;;;$3 982 187;$3.47;0;104;Spot;Percentage;Recently
+571;iExecRLC;RLC/BTC;RLC;BTC;;;$3 961 025;$1.86;0;120;Spot;Percentage;Recently
+572;BinanceUSD;BUSD/BRL;BUSD;BRL;;;$3 960 746;$1.02;0;198;Spot;Percentage;Recently
+573;Bitcoin;BTC/NGN;BTC;NGN;;;$3 945 028;$68,484.10;0;103;Spot;Percentage;Recently
+574;CreamFinance;CREAM/BUSD;CREAM;BUSD;;;$3 942 666;$172.77;0;90;Spot;Percentage;Recently
+575;EnjinCoin;ENJ/BUSD;ENJ;BUSD;;;$3 897 483;$0.5280;0;111;Spot;Percentage;Recently
+576;Metal;MTL/BTC;MTL;BTC;;;$3 860 217;$0.9655;0;103;Spot;Percentage;Recently
+577;district0x;DNT/USDT;DNT;USDT;;;$3 851 988;$0.2776;0;94;Spot;Percentage;Recently
+578;Synthetix;SNX/BUSD;SNX;BUSD;;;$3 820 361;$20.82;0;148;Spot;Percentage;Recently
+579;Ethereum;ETH/BRL;ETH;BRL;;;$3 819 042;$1,784.22;0;180;Spot;Percentage;Recently
+580;ForTube;FOR/BUSD;FOR;BUSD;;;$3 814 515;$0.06144;0;94;Spot;Percentage;Recently
+581;BitShares;BTS/BTC;BTS;BTC;;;$3 803 424;$0.05410;0;81;Spot;Percentage;Recently
+582;Civic;CVC/BTC;CVC;BTC;;;$3 777 220;$0.4118;0;95;Spot;Percentage;Recently
+583;DOTDOWN;DOTDOWN/USDT;DOTDOWN;USDT;;;$3 775 192;$0.0008903;0;69;Spot;Percentage;Recently
+584;Golem;GLM/BTC;GLM;BTC;;;$3 774 804;$0.3657;0;80;Spot;Percentage;Recently
+585;AAVEDOWN;AAVEDOWN/USDT;AAVEDOWN;USDT;;;$3 727 688;$0.0007062;0;68;Spot;Percentage;Recently
+586;AirSwap;AST/BTC;AST;BTC;;;$3 705 566;$0.2421;0;102;Spot;Percentage;Recently
+587;ForTube;FOR/BTC;FOR;BTC;;;$3 668 020;$0.06160;0;87;Spot;Percentage;Recently
+588;BinanceCoin;BNB/RUB;BNB;RUB;;;$3 665 020;$266.64;0;122;Spot;Percentage;Recently
+589;Keep3rV1;KP3R/BUSD;KP3R;BUSD;;;$3 573 984;$330.96;0;115;Spot;Percentage;Recently
+590;Stellar;XLM/BNB;XLM;BNB;;;$3 549 008;$0.4615;0;85;Spot;Percentage;Recently
+591;Steem;STEEM/BTC;STEEM;BTC;;;$3 525 026;$0.4517;0;116;Spot;Percentage;Recently
+592;ARPAChain;ARPA/USDT;ARPA;USDT;;;$3 472 798;$0.03940;0;139;Spot;Percentage;Recently
+593;Nano;NANO/BUSD;NANO;BUSD;;;$3 459 235;$6.44;0;101;Spot;Percentage;Recently
+594;LTONetwork;LTO/USDT;LTO;USDT;;;$3 436 532;$0.3324;0;101;Spot;Percentage;Recently
+595;DuskNetwork;DUSK/BTC;DUSK;BTC;;;$3 436 258;$0.2588;0;92;Spot;Percentage;Recently
+596;LTONetwork;LTO/BTC;LTO;BTC;;;$3 423 313;$0.3329;0;109;Spot;Percentage;Recently
+597;Helium;HNT/USDT;HNT;USDT;;;$3 419 437;$3.52;0;96;Spot;Percentage;Recently
+598;InjectiveProtocol;INJ/BUSD;INJ;BUSD;;;$3 417 933;$15.78;0;81;Spot;Percentage;Recently
+599;TheGraph;GRT/ETH;GRT;ETH;;;$3 374 468;$2.06;0;117;Spot;Percentage;Recently
+600;BitcoinDiamond;BCD/BTC;BCD;BTC;;;$3 366 254;$1.19;0;107;Spot;Percentage;Recently
+601;Travala.com;AVA/USDT;AVA;USDT;;;$3 361 078;$2.61;0;102;Spot;Percentage;Recently
+602;Frontier;FRONT/ETH;FRONT;ETH;;;$3 360 634;$3.46;0;81;Spot;Percentage;Recently
+603;InjectiveProtocol;INJ/BNB;INJ;BNB;;;$3 356 280;$15.77;0;74;Spot;Percentage;Recently
+604;Stellar;XLM/ETH;XLM;ETH;;;$3 244 621;$0.4623;0;112;Spot;Percentage;Recently
+605;Bancor;BNT/BUSD;BNT;BUSD;;;$3 224 359;$6.11;0;95;Spot;Percentage;Recently
+606;NULS;NULS/USDT;NULS;USDT;;;$3 223 817;$0.6160;0;105;Spot;Percentage;Recently
+607;BounceToken;BOT/BTC;BOT;BTC;;;$3 207 572;$2,627.99;0;0;Spot;Percentage;34hoursago
+608;Loopring;LRC/ETH;LRC;ETH;;;$3 192 861;$0.6587;0;88;Spot;Percentage;Recently
+609;AlphaFinanceLab;ALPHA/BNB;ALPHA;BNB;;;$3 177 555;$1.48;0;93;Spot;Percentage;Recently
+610;Dash;DASH/BNB;DASH;BNB;;;$3 175 834;$275.01;0;86;Spot;Percentage;Recently
+611;Beam;BEAM/BTC;BEAM;BTC;;;$3 175 069;$0.7195;0;79;Spot;Percentage;Recently
+612;Swipe;SXP/TRY;SXP;TRY;;;$3 173 281;$2.82;0;98;Spot;Percentage;Recently
+613;THORChain;RUNE/BUSD;RUNE;BUSD;;;$3 140 837;$4.30;0;107;Spot;Percentage;Recently
+614;Augur;REP/USDT;REP;USDT;;;$3 135 082;$30.85;0;99;Spot;Percentage;Recently
+615;WrappedNXM;WNXM/USDT;WNXM;USDT;;;$3 129 296;$53.46;0;133;Spot;Percentage;Recently
+616;QuarkChain;QKC/BTC;QKC;BTC;;;$3 095 377;$0.01450;0;50;Spot;Percentage;Recently
+617;IRISnet;IRIS/BTC;IRIS;BTC;;;$3 064 914;$0.1299;0;94;Spot;Percentage;Recently
+618;OceanProtocol;OCEAN/BUSD;OCEAN;BUSD;;;$3 061 950;$1.10;0;112;Spot;Percentage;Recently
+619;BellaProtocol;BEL/BTC;BEL;BTC;;;$3 057 248;$2.60;0;87;Spot;Percentage;Recently
+620;MoedaLoyaltyPoints;MDA/BTC;MDA;BTC;;;$3 037 642;$1.18;0;119;Spot;Percentage;Recently
+621;Groestlcoin;GRS/BTC;GRS;BTC;;;$3 035 291;$0.6551;0;95;Spot;Percentage;Recently
+622;Bluzelle;BLZ/BTC;BLZ;BTC;;;$3 007 897;$0.1789;0;107;Spot;Percentage;Recently
+623;Aragon;ANT/BTC;ANT;BTC;;;$3 001 715;$5.44;0;107;Spot;Percentage;Recently
+624;Tether;USDT/RUB;USDT;RUB;;;$3 000 777;$1.01;0;236;Spot;Percentage;Recently
+625;BasicAttentionToken;BAT/BUSD;BAT;BUSD;;;$2 992 619;$0.5326;0;118;Spot;Percentage;Recently
+626;Tellor;TRB/BTC;TRB;BTC;;;$2 989 105;$40.65;0;110;Spot;Percentage;Recently
+627;HARDProtocol;HARD/BTC;HARD;BTC;;;$2 985 127;$1.78;0;69;Spot;Percentage;Recently
+628;0x;ZRX/BUSD;ZRX;BUSD;;;$2 976 885;$1.56;0;102;Spot;Percentage;Recently
+629;Selfkey;KEY/ETH;KEY;ETH;;;$2 961 672;$0.01171;0;83;Spot;Percentage;Recently
+630;VeChain;VET/BNB;VET;BNB;;;$2 954 934;$0.04937;0;97;Spot;Percentage;Recently
+631;Storj;STORJ/BTC;STORJ;BTC;;;$2 943 324;$0.7340;0;110;Spot;Percentage;Recently
+632;Metal;MTL/USDT;MTL;USDT;;;$2 916 211;$0.9606;0;85;Spot;Percentage;Recently
+633;Augur;REP/BTC;REP;BTC;;;$2 887 850;$30.98;0;90;Spot;Percentage;Recently
+634;Audius;AUDIO/USDT;AUDIO;USDT;;;$2 855 168;$0.3973;0;118;Spot;Percentage;Recently
+635;AxieInfinity;AXS/BTC;AXS;BTC;;;$2 851 294;$1.65;0;82;Spot;Percentage;Recently
+636;BitcoinCash;BCH/BNB;BCH;BNB;;;$2 839 118;$620.76;0;116;Spot;Percentage;Recently
+637;Compound;COMP/BUSD;COMP;BUSD;;;$2 823 568;$440.93;0;144;Spot;Percentage;Recently
+638;bZxProtocol;BZRX/BUSD;BZRX;BUSD;;;$2 808 573;$0.5716;0;80;Spot;Percentage;Recently
+639;Neo;NEO/BNB;NEO;BNB;;;$2 808 499;$47.81;0;93;Spot;Percentage;Recently
+640;Hive;HIVE/USDT;HIVE;USDT;;;$2 805 907;$0.2722;0;108;Spot;Percentage;Recently
+641;Wanchain;WAN/BTC;WAN;BTC;;;$2 796 912;$0.9142;0;92;Spot;Percentage;Recently
+642;Aave;AAVE/BNB;AAVE;BNB;;;$2 791 394;$410.44;0;81;Spot;Percentage;Recently
+643;SingularityNET;AGI/BTC;AGI;BTC;;;$2 789 311;$0.1869;0;98;Spot;Percentage;Recently
+644;BitcoinCash;BCH/EUR;BCH;EUR;;;$2 778 020;$621.60;0;132;Spot;Percentage;Recently
+645;Waltonchain;WTC/BTC;WTC;BTC;;;$2 776 643;$1.04;0;80;Spot;Percentage;Recently
+646;FILDOWN;FILDOWN/USDT;FILDOWN;USDT;;;$2 765 970;$0.3731;0;71;Spot;Percentage;Recently
+647;Cosmos;ATOM/BNB;ATOM;BNB;;;$2 761 001;$19.63;0;92;Spot;Percentage;Recently
+648;Ethereum;ETH/BIDR;ETH;BIDR;;;$2 750 621;$1,746.07;0;140;Spot;Percentage;Recently
+649;Akropolis;AKRO/BTC;AKRO;BTC;;;$2 740 198;$0.03974;0;69;Spot;Percentage;Recently
+650;district0x;DNT/BTC;DNT;BTC;;;$2 730 711;$0.2787;0;115;Spot;Percentage;Recently
+651;yearn.finance;YFI/BNB;YFI;BNB;;;$2 695 135;$39,269.88;0;81;Spot;Percentage;Recently
+652;HifiFinance;MFT/BNB;MFT;BNB;;;$2 674 990;$0.01630;0;68;Spot;Percentage;Recently
+653;OGFanToken;OG/USDT;OG;USDT;;;$2 656 278;$5.93;0;86;Spot;Percentage;Recently
+654;Gifto;GTO/USDT;GTO;USDT;;;$2 651 252;$0.02382;0;77;Spot;Percentage;Recently
+655;Perlin;PERL/USDT;PERL;USDT;;;$2 645 032;$0.06381;0;100;Spot;Percentage;Recently
+656;NewBitShares;NBS/BTC;NBS;BTC;;;$2 632 670;$0.02255;0;54;Spot;Percentage;Recently
+657;SUSHIDOWN;SUSHIDOWN/USDT;SUSHIDOWN;USDT;;;$2 623 416;$0.0002391;0;69;Spot;Percentage;Recently
+658;DeXe;DEXE/BUSD;DEXE;BUSD;;;$2 614 970;$9.40;0;71;Spot;Percentage;Recently
+659;Maker;MKR/BTC;MKR;BTC;;;$2 587 709;$2,353.01;0;124;Spot;Percentage;Recently
+660;Monero;XMR/BUSD;XMR;BUSD;;;$2 571 058;$219.07;0;135;Spot;Percentage;Recently
+661;VIDTDatalink;VIDT/BTC;VIDT;BTC;;;$2 567 363;$0.6664;0;99;Spot;Percentage;Recently
+662;VIDTDatalink;VIDT/BUSD;VIDT;BUSD;;;$2 563 792;$0.6628;0;80;Spot;Percentage;Recently
+663;Syscoin;SYS/BTC;SYS;BTC;;;$2 557 658;$0.1734;0;96;Spot;Percentage;Recently
+664;Ankr;ANKR/BNB;ANKR;BNB;;;$2 555 619;$0.03149;0;66;Spot;Percentage;Recently
+665;Chiliz;CHZ/TRY;CHZ;TRY;;;$2 553 752;$0.04823;0;101;Spot;Percentage;Recently
+666;Status;SNT/BTC;SNT;BTC;;;$2 532 942;$0.1026;0;79;Spot;Percentage;Recently
+667;Numeraire;NMR/USDT;NMR;USDT;;;$2 522 191;$36.73;0;94;Spot;Percentage;Recently
+668;BandProtocol;BAND/BNB;BAND;BNB;;;$2 507 014;$15.23;0;76;Spot;Percentage;Recently
+669;TRON;TRX/BNB;TRX;BNB;;;$2 506 407;$0.05354;0;87;Spot;Percentage;Recently
+670;ARPAChain;ARPA/BTC;ARPA;BTC;;;$2 500 201;$0.03920;0;80;Spot;Percentage;Recently
+671;Tether;USDT/NGN;USDT;NGN;;;$2 489 040;$1.28;0;274;Spot;Percentage;Recently
+672;HederaHashgraph;HBAR/BUSD;HBAR;BUSD;;;$2 487 265;$0.1429;0;107;Spot;Percentage;Recently
+673;FraxShare;FXS/BTC;FXS;BTC;;;$2 472 388;$9.59;0;65;Spot;Percentage;Recently
+674;Verge;XVG/ETH;XVG;ETH;;;$2 462 220;$0.02222;0;112;Spot;Percentage;Recently
+675;PAXGold;PAXG/BTC;PAXG;BTC;;;$2 452 211;$1,838.55;0;152;Spot;Percentage;Recently
+676;Cardano;ADA/TUSD;ADA;TUSD;;;$2 444 808;$1.02;0;74;Spot;Percentage;Recently
+677;IOTA;IOTA/ETH;IOTA;ETH;;;$2 439 557;$1.30;0;89;Spot;Percentage;Recently
+678;EnjinCoin;ENJ/ETH;ENJ;ETH;;;$2 435 579;$0.5310;0;87;Spot;Percentage;Recently
+679;Chromia;CHR/BTC;CHR;BTC;;;$2 435 478;$0.05853;0;87;Spot;Percentage;Recently
+680;Aion;AION/ETH;AION;ETH;;;$2 423 692;$0.2118;0;59;Spot;Percentage;Recently
+681;SKALENetwork;SKL/BTC;SKL;BTC;;;$2 422 087;$0.2642;0;101;Spot;Percentage;Recently
+682;ICON;ICX/ETH;ICX;ETH;;;$2 416 635;$1.84;0;87;Spot;Percentage;Recently
+683;Prometeus;PROM/BUSD;PROM;BUSD;;;$2 414 948;$18.59;0;78;Spot;Percentage;Recently
+684;Flamingo;FLM/BTC;FLM;BTC;;;$2 406 560;$0.4382;0;95;Spot;Percentage;Recently
+685;JUST;JST/BTC;JST;BTC;;;$2 356 050;$0.05584;0;85;Spot;Percentage;Recently
+686;Balancer;BAL/BTC;BAL;BTC;;;$2 345 088;$40.60;0;138;Spot;Percentage;Recently
+687;TrustWalletToken;TWT/BTC;TWT;BTC;;;$2 336 821;$0.7152;0;80;Spot;Percentage;Recently
+688;Polkadot;DOT/TRY;DOT;TRY;;;$2 323 089;$37.15;0;121;Spot;Percentage;Recently
+689;Firo;FIRO/USDT;FIRO;USDT;;;$2 312 041;$6.23;0;109;Spot;Percentage;Recently
+690;CurveDAOToken;CRV/BUSD;CRV;BUSD;;;$2 300 968;$2.52;0;121;Spot;Percentage;Recently
+691;Avalanche;AVAX/BNB;AVAX;BNB;;;$2 300 004;$32.11;0;87;Spot;Percentage;Recently
+692;THORChain;RUNE/BNB;RUNE;BNB;;;$2 289 035;$4.32;0;80;Spot;Percentage;Recently
+693;BinanceUSD;BUSD/VAI;BUSD;VAI;;;$2 287 433;$1.02;0;174;Spot;Percentage;Recently
+694;QLCChain;QLC/BTC;QLC;BTC;;;$2 284 502;$0.06229;0;84;Spot;Percentage;Recently
+695;Travala.com;AVA/BTC;AVA;BTC;;;$2 277 963;$2.63;0;98;Spot;Percentage;Recently
+696;TrustWalletToken;TWT/BUSD;TWT;BUSD;;;$2 276 962;$0.7170;0;88;Spot;Percentage;Recently
+697;XLMDOWN;XLMDOWN/USDT;XLMDOWN;USDT;;;$2 271 535;$0.01175;0;70;Spot;Percentage;Recently
+698;Mithril;MITH/USDT;MITH;USDT;;;$2 263 349;$0.02085;0;112;Spot;Percentage;Recently
+699;BinanceCoin;BNB/TUSD;BNB;TUSD;;;$2 252 643;$265.62;0;95;Spot;Percentage;Recently
+700;Utrust;UTK/BTC;UTK;BTC;;;$2 242 595;$0.3866;0;95;Spot;Percentage;Recently
+701;NEARProtocol;NEAR/BUSD;NEAR;BUSD;;;$2 214 901;$3.59;0;117;Spot;Percentage;Recently
+702;StandardTokenizationProtocol;STPT/BTC;STPT;BTC;;;$2 206 819;$0.04341;0;70;Spot;Percentage;Recently
+703;Zcash;ZEC/BNB;ZEC;BNB;;;$2 203 890;$145.91;0;96;Spot;Percentage;Recently
+704;PaxosStandard;PAX/BUSD;PAX;BUSD;;;$2 196 503;$1.00;0;580;Spot;Percentage;Recently
+705;Everex;EVX/BTC;EVX;BTC;;;$2 195 683;$0.6142;0;108;Spot;Percentage;Recently
+706;Streamr;DATA/USDT;DATA;USDT;;;$2 186 757;$0.09640;0;102;Spot;Percentage;Recently
+707;Stratis;STRAX/BTC;STRAX;BTC;;;$2 185 240;$1.46;0;101;Spot;Percentage;Recently
+708;Zcash;ZEC/BUSD;ZEC;BUSD;;;$2 178 944;$146.21;0;122;Spot;Percentage;Recently
+709;XRP;XRP/AUD;XRP;AUD;;;$2 178 334;$0.5884;0;109;Spot;Percentage;Recently
+710;UMA;UMA/BTC;UMA;BTC;;;$2 171 143;$23.68;0;114;Spot;Percentage;Recently
+711;ReserveRights;RSR/BUSD;RSR;BUSD;;;$2 170 775;$0.04918;0;95;Spot;Percentage;Recently
+712;dForce;DF/BUSD;DF;BUSD;;;$2 151 053;$0.4301;0;69;Spot;Percentage;Recently
+713;TROY;TROY/USDT;TROY;USDT;;;$2 146 748;$0.008381;0;95;Spot;Percentage;Recently
+714;SUN;SUN/BTC;SUN;BTC;;;$2 143 330;$17.09;0;85;Spot;Percentage;Recently
+715;LTCDOWN;LTCDOWN/USDT;LTCDOWN;USDT;;;$2 131 984;$0.01210;0;80;Spot;Percentage;Recently
+716;BitTorrent;BTT/TRX;BTT;TRX;;;$2 128 310;$0.001666;0;89;Spot;Percentage;Recently
+717;Bread;BRD/BTC;BRD;BTC;;;$2 101 892;$0.2241;0;100;Spot;Percentage;Recently
+718;XTZDOWN;XTZDOWN/USDT;XTZDOWN;USDT;;;$2 086 141;$0.1891;0;75;Spot;Percentage;Recently
+719;aelf;ELF/BTC;ELF;BTC;;;$2 084 662;$0.2658;0;103;Spot;Percentage;Recently
+720;EOS;EOS/USDC;EOS;USDC;;;$2 056 707;$4.64;0;115;Spot;Percentage;Recently
+721;RSKInfrastructureFramework;RIF/BTC;RIF;BTC;;;$2 048 449;$0.2711;0;75;Spot;Percentage;Recently
+722;RaidenNetworkToken;RDN/BTC;RDN;BTC;;;$2 048 248;$0.5220;0;102;Spot;Percentage;Recently
+723;Maker;MKR/BUSD;MKR;BUSD;;;$2 046 720;$2,333.07;0;151;Spot;Percentage;Recently
+724;Komodo;KMD/ETH;KMD;ETH;;;$2 046 660;$1.50;0;72;Spot;Percentage;Recently
+725;Ambrosus;AMB/BTC;AMB;BTC;;;$2 037 237;$0.04933;0;80;Spot;Percentage;Recently
+726;BitcoinCash;BCH/USDC;BCH;USDC;;;$2 031 197;$621.15;0;108;Spot;Percentage;Recently
+727;POA;POA/BTC;POA;BTC;;;$2 026 529;$0.06485;0;81;Spot;Percentage;Recently
+728;UnifiProtocolDAO;UNFI/BUSD;UNFI;BUSD;;;$2 024 374;$22.91;0;67;Spot;Percentage;Recently
+729;Bancor;BNT/ETH;BNT;ETH;;;$2 012 854;$6.15;0;86;Spot;Percentage;Recently
+730;Dogecoin;DOGE/GBP;DOGE;GBP;;;$2 008 769;$0.05437;0;91;Spot;Percentage;Recently
+731;Ardor;ARDR/USDT;ARDR;USDT;;;$1 994 403;$0.1772;0;80;Spot;Percentage;Recently
+732;Celo;CELO/BTC;CELO;BTC;;;$1 990 916;$4.58;0;89;Spot;Percentage;Recently
+733;SushiSwap;SUSHI/BNB;SUSHI;BNB;;;$1 988 793;$16.14;0;81;Spot;Percentage;Recently
+734;MeasurableDataToken;MDT/BTC;MDT;BTC;;;$1 980 360;$0.05143;0;75;Spot;Percentage;Recently
+735;Nebulas;NAS/BTC;NAS;BTC;;;$1 978 178;$0.6432;0;82;Spot;Percentage;Recently
+736;Stellar;XLM/TRY;XLM;TRY;;;$1 962 235;$0.4713;0;105;Spot;Percentage;Recently
+737;Zcash;ZEC/USDC;ZEC;USDC;;;$1 957 412;$146.31;0;86;Spot;Percentage;Recently
+738;Monero;XMR/ETH;XMR;ETH;;;$1 940 780;$220.25;0;111;Spot;Percentage;Recently
+739;WePower;WPR/BTC;WPR;BTC;;;$1 938 988;$0.02946;0;58;Spot;Percentage;Recently
+740;StormX;STMX/ETH;STMX;ETH;;;$1 921 538;$0.01121;0;77;Spot;Percentage;Recently
+741;Dock;DOCK/BTC;DOCK;BTC;;;$1 920 825;$0.04234;0;77;Spot;Percentage;Recently
+742;SXPDOWN;SXPDOWN/USDT;SXPDOWN;USDT;;;$1 916 853;$0.00001701;0;36;Spot;Percentage;Recently
+743;Dash;DASH/ETH;DASH;ETH;;;$1 909 382;$273.00;0;110;Spot;Percentage;Recently
+744;yearn.finance;YFI/EUR;YFI;EUR;;;$1 905 755;$39,535.41;0;108;Spot;Percentage;Recently
+745;DeXe;DEXE/ETH;DEXE;ETH;;;$1 899 305;$9.44;0;56;Spot;Percentage;Recently
+746;RSKInfrastructureFramework;RIF/USDT;RIF;USDT;;;$1 897 592;$0.2694;0;98;Spot;Percentage;Recently
+747;Zilliqa;ZIL/ETH;ZIL;ETH;;;$1 849 082;$0.1245;0;90;Spot;Percentage;Recently
+748;IoTeX;IOTX/ETH;IOTX;ETH;;;$1 841 855;$0.02493;0;74;Spot;Percentage;Recently
+749;Serum;SRM/BUSD;SRM;BUSD;;;$1 838 962;$4.74;0;113;Spot;Percentage;Recently
+750;GXChain;GXS/BTC;GXS;BTC;;;$1 838 471;$0.6244;0;92;Spot;Percentage;Recently
+751;TheSandbox;SAND/BUSD;SAND;BUSD;;;$1 808 063;$0.2859;0;87;Spot;Percentage;Recently
+752;Viberate;VIB/BTC;VIB;BTC;;;$1 796 614;$0.06003;0;83;Spot;Percentage;Recently
+753;NucleusVision;NCASH/ETH;NCASH;ETH;;;$1 790 960;$0.002464;0;76;Spot;Percentage;Recently
+754;ParisSaint-GermainFanToken;PSG/USDT;PSG;USDT;;;$1 768 286;$10.46;0;92;Spot;Percentage;Recently
+755;EOS;EOS/EUR;EOS;EUR;;;$1 761 976;$4.70;0;112;Spot;Percentage;Recently
+756;EOS;EOS/BNB;EOS;BNB;;;$1 743 068;$4.63;0;84;Spot;Percentage;Recently
+757;Ethereum;ETH/RUB;ETH;RUB;;;$1 739 127;$1,760.07;0;152;Spot;Percentage;Recently
+758;NervosNetwork;CKB/BTC;CKB;BTC;;;$1 728 175;$0.009643;0;39;Spot;Percentage;Recently
+759;SONM;SNM/BTC;SNM;BTC;;;$1 718 201;$0.02411;0;61;Spot;Percentage;Recently
+760;XRP;XRP/TUSD;XRP;TUSD;;;$1 706 828;$0.5820;0;103;Spot;Percentage;Recently
+761;VITE;VITE/USDT;VITE;USDT;;;$1 703 751;$0.03387;0;96;Spot;Percentage;Recently
+762;Firo;FIRO/BTC;FIRO;BTC;;;$1 672 277;$6.22;0;92;Spot;Percentage;Recently
+763;OasisNetwork;ROSE/BUSD;ROSE;BUSD;;;$1 671 394;$0.1079;0;90;Spot;Percentage;Recently
+764;Ontology;ONT/ETH;ONT;ETH;;;$1 661 727;$1.23;0;103;Spot;Percentage;Recently
+765;Wing;WING/BTC;WING;BTC;;;$1 657 261;$28.51;0;81;Spot;Percentage;Recently
+766;EasyFi;EASY/BTC;EASY;BTC;;;$1 656 411;$19.72;0;82;Spot;Percentage;Recently
+767;TRON;TRX/XRP;TRX;XRP;;;$1 655 259;$0.05362;0;80;Spot;Percentage;Recently
+768;FIOProtocol;FIO/USDT;FIO;USDT;;;$1 649 805;$0.1366;0;91;Spot;Percentage;Recently
+769;COVERProtocol;COVER/BUSD;COVER;BUSD;;;$1 647 808;$1,116.88;0;96;Spot;Percentage;Recently
+770;GenesisVision;GVT/BTC;GVT;BTC;;;$1 619 901;$4.53;0;96;Spot;Percentage;Recently
+771;Navcoin;NAV/BTC;NAV;BTC;;;$1 601 941;$0.4631;0;108;Spot;Percentage;Recently
+772;Aergo;AERGO/BTC;AERGO;BTC;;;$1 597 019;$0.1179;0;74;Spot;Percentage;Recently
+773;FTXToken;FTT/BNB;FTT;BNB;;;$1 593 996;$31.63;0;72;Spot;Percentage;Recently
+774;CertiK;CTK/BTC;CTK;BTC;;;$1 591 603;$1.88;0;83;Spot;Percentage;Recently
+775;Numeraire;NMR/BTC;NMR;BTC;;;$1 581 417;$36.70;0;76;Spot;Percentage;Recently
+776;MeasurableDataToken;MDT/USDT;MDT;USDT;;;$1 564 335;$0.05138;0;79;Spot;Percentage;Recently
+777;Waves;WAVES/BUSD;WAVES;BUSD;;;$1 562 876;$10.43;0;124;Spot;Percentage;Recently
+778;Bitcoin;BTC/ZAR;BTC;ZAR;;;$1 559 245;$54,252.23;0;131;Spot;Percentage;Recently
+779;Siacoin;SC/ETH;SC;ETH;;;$1 556 143;$0.01171;0;79;Spot;Percentage;Recently
+780;FunFair;FUN/USDT;FUN;USDT;;;$1 555 594;$0.03097;0;89;Spot;Percentage;Recently
+781;RipioCreditNetwork;RCN/BTC;RCN;BTC;;;$1 555 359;$0.09276;0;93;Spot;Percentage;Recently
+782;Dock;DOCK/USDT;DOCK;USDT;;;$1 555 026;$0.04239;0;99;Spot;Percentage;Recently
+783;Kusama;KSM/BNB;KSM;BNB;;;$1 548 966;$255.11;0;73;Spot;Percentage;Recently
+784;Ardor;ARDR/BTC;ARDR;BTC;;;$1 533 355;$0.1780;0;87;Spot;Percentage;Recently
+785;Secret;SCRT/ETH;SCRT;ETH;;;$1 528 244;$4.03;0;84;Spot;Percentage;Recently
+786;COTI;COTI/BNB;COTI;BNB;;;$1 528 132;$0.1904;0;66;Spot;Percentage;Recently
+787;Qtum;QTUM/BUSD;QTUM;BUSD;;;$1 527 373;$6.32;0;115;Spot;Percentage;Recently
+788;DIA;DIA/BUSD;DIA;BUSD;;;$1 524 134;$2.70;0;85;Spot;Percentage;Recently
+789;LINKDOWN;LINKDOWN/USDT;LINKDOWN;USDT;;;$1 517 411;$0.0009203;0;73;Spot;Percentage;Recently
+790;Streamr;DATA/BTC;DATA;BTC;;;$1 479 890;$0.09701;0;93;Spot;Percentage;Recently
+791;Viacoin;VIA/BTC;VIA;BTC;;;$1 479 318;$0.7386;0;98;Spot;Percentage;Recently
+792;Hegic;HEGIC/BUSD;HEGIC;BUSD;;;$1 444 379;$0.3580;0;95;Spot;Percentage;Recently
+793;OGFanToken;OG/BTC;OG;BTC;;;$1 438 696;$5.94;0;68;Spot;Percentage;Recently
+794;Audius;AUDIO/BTC;AUDIO;BTC;;;$1 438 602;$0.3982;0;96;Spot;Percentage;Recently
+795;TokenClub;TCT/USDT;TCT;USDT;;;$1 409 170;$0.02349;0;80;Spot;Percentage;Recently
+796;PAXGold;PAXG/BNB;PAXG;BNB;;;$1 405 904;$1,831.92;0;143;Spot;Percentage;Recently
+797;0x;ZRX/ETH;ZRX;ETH;;;$1 397 904;$1.57;0;75;Spot;Percentage;Recently
+798;Harmony;ONE/BUSD;ONE;BUSD;;;$1 390 284;$0.02574;0;90;Spot;Percentage;Recently
+799;Swerve;SWRV/BUSD;SWRV;BUSD;;;$1 382 480;$1.44;0;58;Spot;Percentage;Recently
+800;IOTA;IOTA/BNB;IOTA;BNB;;;$1 381 785;$1.31;0;72;Spot;Percentage;Recently
+801;Zcash;ZEC/ETH;ZEC;ETH;;;$1 380 759;$145.78;0;134;Spot;Percentage;Recently
+802;IOTA;IOTA/BNB;IOTA;BNB;;;$1 375 061;$1.30;0;73;Spot;Percentage;Recently
+803;Cortex;CTXC/USDT;CTXC;USDT;;;$1 367 332;$0.1906;0;90;Spot;Percentage;Recently
+804;TRON;TRX/USDC;TRX;USDC;;;$1 361 065;$0.05351;0;105;Spot;Percentage;Recently
+805;TRON;TRX/TRY;TRX;TRY;;;$1 360 575;$0.05465;0;107;Spot;Percentage;Recently
+806;THETA;THETA/ETH;THETA;ETH;;;$1 353 245;$3.25;0;90;Spot;Percentage;Recently
+807;Wabi;WABI/BTC;WABI;BTC;;;$1 347 241;$0.2232;0;108;Spot;Percentage;Recently
+808;NULS;NULS/BTC;NULS;BTC;;;$1 345 646;$0.6084;0;94;Spot;Percentage;Recently
+809;Aavegotchi;GHST/ETH;GHST;ETH;;;$1 343 924;$1.23;0;77;Spot;Percentage;Recently
+810;OAX;OAX/BTC;OAX;BTC;;;$1 338 944;$0.2782;0;91;Spot;Percentage;Recently
+811;Chainlink;LINK/TRY;LINK;TRY;;;$1 321 324;$31.62;0;119;Spot;Percentage;Recently
+812;XRP;XRP/BRL;XRP;BRL;;;$1 312 526;$0.5986;0;105;Spot;Percentage;Recently
+813;Bitcoin;BTC/UAH;BTC;UAH;;;$1 311 583;$53,714.00;0;203;Spot;Percentage;Recently
+814;Everipedia;IQ/BUSD;IQ;BUSD;;;$1 306 819;$0.008385;0;65;Spot;Percentage;Recently
+815;TrueFi;TRU/BTC;TRU;BTC;;;$1 303 089;$0.3818;0;77;Spot;Percentage;Recently
+816;NKN;NKN/USDT;NKN;USDT;;;$1 300 582;$0.05059;0;80;Spot;Percentage;Recently
+817;IDEX;IDEX/BTC;IDEX;BTC;;;$1 295 402;$0.06646;0;73;Spot;Percentage;Recently
+818;WazirX;WRX/BUSD;WRX;BUSD;;;$1 285 135;$0.3146;0;83;Spot;Percentage;Recently
+819;EthereumClassic;ETC/ETH;ETC;ETH;;;$1 283 232;$13.68;0;96;Spot;Percentage;Recently
+820;DREP;DREP/USDT;DREP;USDT;;;$1 277 665;$0.007711;0;101;Spot;Percentage;Recently
+821;Populous;PPT/BTC;PPT;BTC;;;$1 274 169;$1.98;0;122;Spot;Percentage;Recently
+822;Decentraland;MANA/BUSD;MANA;BUSD;;;$1 273 090;$0.2816;0;101;Spot;Percentage;Recently
+823;VeThorToken;VTHO/BNB;VTHO;BNB;;;$1 260 850;$0.005791;0;64;Spot;Percentage;Recently
+824;Perlin;PERL/BTC;PERL;BTC;;;$1 254 833;$0.06437;0;79;Spot;Percentage;Recently
+825;Gifto;GTO/BTC;GTO;BTC;;;$1 250 168;$0.02412;0;54;Spot;Percentage;Recently
+826;Hive;HIVE/BTC;HIVE;BTC;;;$1 230 271;$0.2739;0;89;Spot;Percentage;Recently
+827;Request;REQ/BTC;REQ;BTC;;;$1 214 594;$0.08583;0;87;Spot;Percentage;Recently
+828;OST;OST/BTC;OST;BTC;;;$1 211 967;$0.01983;0;56;Spot;Percentage;Recently
+829;Nebulas;NAS/ETH;NAS;ETH;;;$1 195 377;$0.6432;0;67;Spot;Percentage;Recently
+830;Helium;HNT/BTC;HNT;BTC;;;$1 193 168;$3.55;0;79;Spot;Percentage;Recently
+831;JuventusFanToken;JUV/USDT;JUV;USDT;;;$1 193 000;$10.26;0;76;Spot;Percentage;Recently
+832;TROY;TROY/BTC;TROY;BTC;;;$1 180 958;$0.008576;0;39;Spot;Percentage;Recently
+833;OMGNetwork;OMG/ETH;OMG;ETH;;;$1 178 028;$5.52;0;114;Spot;Percentage;Recently
+834;PowerLedger;POWR/ETH;POWR;ETH;;;$1 170 959;$0.2495;0;85;Spot;Percentage;Recently
+835;XRP;XRP/RUB;XRP;RUB;;;$1 161 416;$0.5901;0;99;Spot;Percentage;Recently
+836;CurveDAOToken;CRV/BNB;CRV;BNB;;;$1 160 414;$2.53;0;69;Spot;Percentage;Recently
+837;WrappedNXM;WNXM/BTC;WNXM;BTC;;;$1 153 782;$53.62;0;96;Spot;Percentage;Recently
+838;TomoChain;TOMO/BUSD;TOMO;BUSD;;;$1 115 146;$1.75;0;103;Spot;Percentage;Recently
+839;CreamFinance;CREAM/BNB;CREAM;BNB;;;$1 112 690;$170.36;0;57;Spot;Percentage;Recently
+840;DigiByte;DGB/BUSD;DGB;BUSD;;;$1 094 209;$0.06979;0;59;Spot;Percentage;Recently
+841;Waves;WAVES/BNB;WAVES;BNB;;;$1 087 959;$10.45;0;78;Spot;Percentage;Recently
+842;PowerPool;CVP/BUSD;CVP;BUSD;;;$1 081 254;$3.25;0;97;Spot;Percentage;Recently
+843;ASRomaFanToken;ASR/USDT;ASR;USDT;;;$1 070 057;$7.01;0;71;Spot;Percentage;Recently
+844;NKN;NKN/BTC;NKN;BTC;;;$1 053 372;$0.05092;0;78;Spot;Percentage;Recently
+845;TokenClub;TCT/BTC;TCT;BTC;;;$1 050 887;$0.02358;0;57;Spot;Percentage;Recently
+846;GoChain;GO/BTC;GO;BTC;;;$1 049 597;$0.02144;0;59;Spot;Percentage;Recently
+847;BitcoinCashABC;BCHA/BUSD;BCHA;BUSD;;;$1 034 465;$15.64;0;80;Spot;Percentage;Recently
+848;Quantstamp;QSP/BTC;QSP;BTC;;;$1 033 829;$0.05629;0;78;Spot;Percentage;Recently
+849;Golem;GLM/ETH;GLM;ETH;;;$1 030 625;$0.3627;0;67;Spot;Percentage;Recently
+850;JUST;JST/BUSD;JST;BUSD;;;$1 030 099;$0.05590;0;94;Spot;Percentage;Recently
+851;VITE;VITE/BTC;VITE;BTC;;;$1 022 000;$0.03430;0;67;Spot;Percentage;Recently
+852;Neo;NEO/USDC;NEO;USDC;;;$1 020 163;$47.76;0;71;Spot;Percentage;Recently
+853;OceanProtocol;OCEAN/BNB;OCEAN;BNB;;$1 015 955;$1 015 955;$1.10;0;98;Spot;Percentage;Recently
+854;ICON;ICX/BNB;ICX;BNB;;;$995 205;$1.84;0;91;Spot;Percentage;Recently
+855;YOYOW;YOYO/BTC;YOYO;BTC;;;$992 953;$0.02734;0;62;Spot;Percentage;Recently
+856;FunFair;FUN/BTC;FUN;BTC;;;$992 751;$0.03109;0;69;Spot;Percentage;Recently
+857;CelerNetwork;CELR/BNB;CELR;BNB;;;$992 325;$0.02025;0;60;Spot;Percentage;Recently
+858;Algorand;ALGO/BNB;ALGO;BNB;;;$985 502;$1.17;0;82;Spot;Percentage;Recently
+859;AppCoins;APPC/BTC;APPC;BTC;;;$978 328;$0.08523;0;83;Spot;Percentage;Recently
+860;Synthetix;SNX/BNB;SNX;BNB;;;$957 157;$20.97;0;83;Spot;Percentage;Recently
+861;Polkadot;DOT/BIDR;DOT;BIDR;;;$952 409;$36.34;0;97;Spot;Percentage;Recently
+862;Monero;XMR/BNB;XMR;BNB;;;$948 092;$222.72;0;82;Spot;Percentage;Recently
+863;Chiliz;CHZ/BNB;CHZ;BNB;;;$939 902;$0.04711;0;74;Spot;Percentage;Recently
+864;DFI.Money;YFII/BUSD;YFII;BUSD;;;$933 412;$2,738.82;0;114;Spot;Percentage;Recently
+865;FIOProtocol;FIO/BTC;FIO;BTC;;;$929 702;$0.1362;0;81;Spot;Percentage;Recently
+866;JUST;JST/BNB;JST;BNB;;;$926 165;$0.05589;0;70;Spot;Percentage;Recently
+867;Aragon;ANT/BUSD;ANT;BUSD;;;$910 105;$5.40;0;95;Spot;Percentage;Recently
+868;Harmony;ONE/BNB;ONE;BNB;;;$901 272;$0.02552;0;62;Spot;Percentage;Recently
+869;Aergo;AERGO/BUSD;AERGO;BUSD;;;$898 791;$0.1167;0;59;Spot;Percentage;Recently
+870;AtleticoDeMadridFanToken;ATM/USDT;ATM;USDT;;;$898 401;$7.95;0;74;Spot;Percentage;Recently
+871;PhoenixGlobal;PHB/BTC;PHB;BTC;;;$888 933;$0.008583;0;39;Spot;Percentage;Recently
+872;WINk;WIN/TRX;WIN;TRX;;;$888 412;$0.0002314;0;72;Spot;Percentage;Recently
+873;BasicAttentionToken;BAT/ETH;BAT;ETH;;;$881 498;$0.5318;0;79;Spot;Percentage;Recently
+874;LoomNetwork;LOOM/ETH;LOOM;ETH;;;$880 903;$0.1330;0;77;Spot;Percentage;Recently
+875;Swipe;SXP/GBP;SXP;GBP;;;$873 864;$2.79;0;90;Spot;Percentage;Recently
+876;Tezos;XTZ/BNB;XTZ;BNB;;;$856 355;$4.05;0;70;Spot;Percentage;Recently
+877;Blox;CDT/BTC;CDT;BTC;;;$855 657;$0.01983;0;55;Spot;Percentage;Recently
+878;Tether;USDT/IDRT;USDT;IDRT;;;$853 049;$1.00;0;131;Spot;Percentage;Recently
+879;Loopring;LRC/BUSD;LRC;BUSD;;;$845 565;$0.6585;0;99;Spot;Percentage;Recently
+880;Status;SNT/ETH;SNT;ETH;;;$843 073;$0.1029;0;78;Spot;Percentage;Recently
+881;WINk;WIN/BNB;WIN;BNB;;;$843 064;$0.0002321;0;62;Spot;Percentage;Recently
+882;SKALENetwork;SKL/BUSD;SKL;BUSD;;;$840 912;$0.2645;0;86;Spot;Percentage;Recently
+883;SingularDTV;SNGLS/BTC;SNGLS;BTC;;;$833 532;$0.01395;0;47;Spot;Percentage;Recently
+884;NervosNetwork;CKB/BUSD;CKB;BUSD;;;$831 962;$0.009666;0;78;Spot;Percentage;Recently
+885;TheSandbox;SAND/BNB;SAND;BNB;;;$830 247;$0.2880;0;68;Spot;Percentage;Recently
+886;Dogecoin;DOGE/AUD;DOGE;AUD;;;$823 285;$0.05441;0;76;Spot;Percentage;Recently
+887;Everipedia;IQ/BNB;IQ;BNB;;;$812 995;$0.008384;0;51;Spot;Percentage;Recently
+888;Cosmos;ATOM/USDC;ATOM;USDC;;;$807 828;$19.64;0;67;Spot;Percentage;Recently
+889;Neblio;NEBL/ETH;NEBL;ETH;;;$807 158;$2.41;0;69;Spot;Percentage;Recently
+890;Travala.com;AVA/BNB;AVA;BNB;;;$806 191;$2.58;0;64;Spot;Percentage;Recently
+891;Nano;NANO/ETH;NANO;ETH;;;$801 239;$6.49;0;69;Spot;Percentage;Recently
+892;Tether;USDT/UAH;USDT;UAH;;;$788 626;$1.00;0;457;Spot;Percentage;Recently
+893;CertiK;CTK/BUSD;CTK;BUSD;;;$784 179;$1.89;0;60;Spot;Percentage;Recently
+894;HARDProtocol;HARD/BUSD;HARD;BUSD;;;$775 901;$1.78;0;59;Spot;Percentage;Recently
+895;Mithril;MITH/BTC;MITH;BTC;;;$770 375;$0.02091;0;60;Spot;Percentage;Recently
+896;Serum;SRM/BNB;SRM;BNB;;;$760 366;$4.75;0;73;Spot;Percentage;Recently
+897;Prometeus;PROM/BNB;PROM;BNB;;;$754 170;$18.39;0;61;Spot;Percentage;Recently
+898;ReserveRights;RSR/BNB;RSR;BNB;;;$751 386;$0.04924;0;76;Spot;Percentage;Recently
+899;sUSD;SUSD/BTC;SUSD;BTC;;;$748 475;$1.02;0;110;Spot;Percentage;Recently
+900;BinanceUSD;BUSD/BIDR;BUSD;BIDR;;;$741 669;$0.9994;0;114;Spot;Percentage;Recently
+901;EOS;EOS/TUSD;EOS;TUSD;;;$736 040;$4.59;0;56;Spot;Percentage;Recently
+902;VIBE;VIBE/BTC;VIBE;BTC;;;$735 742;$0.02251;0;19;Spot;Percentage;294hoursago
+903;Horizen;ZEN/ETH;ZEN;ETH;;;$732 634;$64.59;0;76;Spot;Percentage;Recently
+904;Zilliqa;ZIL/BNB;ZIL;BNB;;;$730 095;$0.1245;0;73;Spot;Percentage;Recently
+905;THETA;THETA/BNB;THETA;BNB;;;$725 234;$3.25;0;72;Spot;Percentage;Recently
+906;Chainlink;LINK/TUSD;LINK;TUSD;;;$721 649;$31.29;0;60;Spot;Percentage;Recently
+907;AxieInfinity;AXS/BUSD;AXS;BUSD;;;$715 353;$1.65;0;89;Spot;Percentage;Recently
+908;KyberNetwork;KNC/ETH;KNC;ETH;;;$707 398;$1.94;0;83;Spot;Percentage;Recently
+909;MovieBloc;MBL/BNB;MBL;BNB;;;$702 951;$0.003566;0;52;Spot;Percentage;Recently
+910;NEARProtocol;NEAR/BNB;NEAR;BNB;;;$698 281;$3.60;0;104;Spot;Percentage;Recently
+911;BellaProtocol;BEL/BUSD;BEL;BUSD;;;$697 706;$2.59;0;65;Spot;Percentage;Recently
+912;DigiByte;DGB/BNB;DGB;BNB;;;$696 762;$0.06973;0;65;Spot;Percentage;Recently
+913;KyberNetwork;KNC/BUSD;KNC;BUSD;;;$684 463;$1.93;0;96;Spot;Percentage;Recently
+914;HARDProtocol;HARD/BNB;HARD;BNB;;;$674 354;$1.78;0;47;Spot;Percentage;Recently
+915;Litecoin;LTC/BRL;LTC;BRL;;;$673 638;$209.59;0;112;Spot;Percentage;Recently
+916;Ontology;ONT/BNB;ONT;BNB;;;$672 797;$1.22;0;71;Spot;Percentage;Recently
+917;sUSD;SUSD/USDT;SUSD;USDT;;;$670 151;$1.01;0;174;Spot;Percentage;Recently
+918;WazirX;WRX/BNB;WRX;BNB;;;$665 703;$0.3142;0;59;Spot;Percentage;Recently
+919;Decentraland;MANA/ETH;MANA;ETH;;;$664 182;$0.2820;0;80;Spot;Percentage;Recently
+920;Lisk;LSK/ETH;LSK;ETH;;;$660 938;$3.28;0;73;Spot;Percentage;Recently
+921;Cindicator;CND/BTC;CND;BTC;;;$658 966;$0.02090;0;52;Spot;Percentage;Recently
+922;Travala.com;AVA/BUSD;AVA;BUSD;;;$657 489;$2.59;0;75;Spot;Percentage;Recently
+923;Agrello;DLT/BTC;DLT;BTC;;;$648 959;$0.1174;0;76;Spot;Percentage;Recently
+924;Chainlink;LINK/BRL;LINK;BRL;;;$647 291;$31.46;0;118;Spot;Percentage;Recently
+925;ParisSaint-GermainFanToken;PSG/BTC;PSG;BTC;;;$645 619;$10.44;0;64;Spot;Percentage;Recently
+926;Qtum;QTUM/ETH;QTUM;ETH;;;$640 216;$6.34;0;82;Spot;Percentage;Recently
+927;Syscoin;SYS/BUSD;SYS;BUSD;;;$639 228;$0.1719;0;52;Spot;Percentage;Recently
+928;Wanchain;WAN/ETH;WAN;ETH;;;$637 534;$0.9194;0;69;Spot;Percentage;Recently
+929;CertiK;CTK/BNB;CTK;BNB;;;$633 762;$1.89;0;52;Spot;Percentage;Recently
+930;Waves;WAVES/ETH;WAVES;ETH;;;$631 944;$10.44;0;95;Spot;Percentage;Recently
+931;BitTorrent;BTT/USDC;BTT;USDC;;;$630 746;$0.001646;0;53;Spot;Percentage;Recently
+932;Tellor;TRB/BUSD;TRB;BUSD;;;$625 813;$40.78;0;66;Spot;Percentage;Recently
+933;BinanceUSD;BUSD/RUB;BUSD;RUB;;;$612 858;$1.01;0;188;Spot;Percentage;Recently
+934;QuarkChain;QKC/ETH;QKC;ETH;;;$611 954;$0.01437;0;94;Spot;Percentage;Recently
+935;HederaHashgraph;HBAR/BNB;HBAR;BNB;;;$607 877;$0.1435;0;64;Spot;Percentage;Recently
+936;Chainlink;LINK/AUD;LINK;AUD;;;$607 232;$31.25;0;119;Spot;Percentage;Recently
+937;Cocos-BCX;COCOS/BNB;COCOS;BNB;;;$601 636;$0.8962;0;49;Spot;Percentage;Recently
+938;Bread;BRD/ETH;BRD;ETH;;;$597 180;$0.2249;0;75;Spot;Percentage;Recently
+939;Contentos;COS/BNB;COS;BNB;;;$588 950;$0.01757;0;45;Spot;Percentage;Recently
+940;Monetha;MTH/BTC;MTH;BTC;;;$579 348;$0.02144;0;56;Spot;Percentage;Recently
+941;Balancer;BAL/BUSD;BAL;BUSD;;;$575 122;$40.56;0;103;Spot;Percentage;Recently
+942;Civic;CVC/ETH;CVC;ETH;;;$574 722;$0.4099;0;78;Spot;Percentage;Recently
+943;Cartesi;CTSI/BUSD;CTSI;BUSD;;;$573 968;$0.1923;0;61;Spot;Percentage;Recently
+944;Cortex;CTXC/BTC;CTXC;BTC;;;$571 374;$0.1908;0;87;Spot;Percentage;Recently
+945;BitcoinCash;BCH/TUSD;BCH;TUSD;;;$566 660;$618.79;0;83;Spot;Percentage;Recently
+946;Swerve;SWRV/BNB;SWRV;BNB;;;$565 867;$1.44;0;43;Spot;Percentage;Recently
+947;Steem;STEEM/ETH;STEEM;ETH;;;$543 813;$0.4495;0;72;Spot;Percentage;Recently
+948;EnjinCoin;ENJ/BNB;ENJ;BNB;;;$542 553;$0.5289;0;63;Spot;Percentage;Recently
+949;TRON;TRX/TUSD;TRX;TUSD;;;$522 034;$0.05351;0;77;Spot;Percentage;Recently
+950;Metal;MTL/ETH;MTL;ETH;;;$513 810;$0.9631;0;64;Spot;Percentage;Recently
+951;IDEX;IDEX/BUSD;IDEX;BUSD;;;$513 275;$0.06645;0;70;Spot;Percentage;Recently
+952;Siacoin;SC/BNB;SC;BNB;;;$513 168;$0.01176;0;57;Spot;Percentage;Recently
+953;PowerPool;CVP/ETH;CVP;ETH;;;$507 540;$3.21;0;63;Spot;Percentage;Recently
+954;Swipe;SXP/AUD;SXP;AUD;;;$505 179;$2.81;0;82;Spot;Percentage;Recently
+955;BasicAttentionToken;BAT/BNB;BAT;BNB;;;$504 353;$0.5361;0;68;Spot;Percentage;Recently
+956;dForce;DF/ETH;DF;ETH;;;$500 492;$0.4211;0;45;Spot;Percentage;Recently
+957;StormX;STMX/BNB;STMX;BNB;;;$500 133;$0.01118;0;53;Spot;Percentage;Recently
+958;Keep3rV1;KP3R/BNB;KP3R;BNB;;;$499 320;$326.48;0;59;Spot;Percentage;Recently
+959;iExecRLC;RLC/ETH;RLC;ETH;;;$498 594;$1.85;0;83;Spot;Percentage;Recently
+960;renBTC;RENBTC/BTC;RENBTC;BTC;;;$498 528;$53,640.32;0;146;Spot;Percentage;Recently
+961;Stacks;STX/BNB;STX;BNB;;;$491 271;$0.7213;0;92;Spot;Percentage;Recently
+962;ASRomaFanToken;ASR/BTC;ASR;BTC;;;$489 529;$7.06;0;63;Spot;Percentage;Recently
+963;Dogecoin;DOGE/BRL;DOGE;BRL;;;$488 744;$0.05509;0;77;Spot;Percentage;Recently
+964;GXChain;GXS/ETH;GXS;ETH;;;$478 770;$0.6296;0;67;Spot;Percentage;Recently
+965;QLCChain;QLC/ETH;QLC;ETH;;;$470 412;$0.06223;0;76;Spot;Percentage;Recently
+966;Numeraire;NMR/BUSD;NMR;BUSD;;;$469 890;$36.88;0;91;Spot;Percentage;Recently
+967;EthereumClassic;ETC/BNB;ETC;BNB;;;$467 024;$13.81;0;74;Spot;Percentage;Recently
+968;FIOProtocol;FIO/BNB;FIO;BNB;;;$460 648;$0.1357;0;47;Spot;Percentage;Recently
+969;Hegic;HEGIC/ETH;HEGIC;ETH;;;$457 464;$0.3566;0;56;Spot;Percentage;Recently
+970;Flamingo;FLM/BUSD;FLM;BUSD;;;$443 364;$0.4341;0;63;Spot;Percentage;Recently
+971;Wanchain;WAN/BNB;WAN;BNB;;;$438 567;$0.9155;0;50;Spot;Percentage;Recently
+972;COVERProtocol;COVER/ETH;COVER;ETH;;;$432 043;$1,101.19;0;49;Spot;Percentage;Recently
+973;Wing;WING/BUSD;WING;BUSD;;;$419 697;$28.40;0;68;Spot;Percentage;Recently
+974;ARPAChain;ARPA/BNB;ARPA;BNB;;;$415 725;$0.03939;0;52;Spot;Percentage;Recently
+975;DIA;DIA/BNB;DIA;BNB;;;$415 255;$2.69;0;58;Spot;Percentage;Recently
+976;Stratis;STRAX/BUSD;STRAX;BUSD;;;$410 078;$1.46;0;61;Spot;Percentage;Recently
+977;Stratis;STRAX/ETH;STRAX;ETH;;;$409 089;$1.47;0;75;Spot;Percentage;Recently
+978;BinanceCoin;BNB/IDRT;BNB;IDRT;;;$402 925;$265.01;0;46;Spot;Percentage;Recently
+979;Wing;WING/BNB;WING;BNB;;;$398 165;$28.24;0;57;Spot;Percentage;Recently
+980;UnifiProtocolDAO;UNFI/BNB;UNFI;BNB;;;$394 474;$23.14;0;53;Spot;Percentage;Recently
+981;TrueFi;TRU/BUSD;TRU;BUSD;;;$392 114;$0.3819;0;62;Spot;Percentage;Recently
+982;Viberate;VIB/ETH;VIB;ETH;;;$389 017;$0.05997;0;64;Spot;Percentage;Recently
+983;Cartesi;CTSI/BNB;CTSI;BNB;;;$388 967;$0.1932;0;56;Spot;Percentage;Recently
+984;Augur;REP/ETH;REP;ETH;;;$385 986;$30.82;0;69;Spot;Percentage;Recently
+985;Waltonchain;WTC/BNB;WTC;BNB;;;$383 393;$1.04;0;46;Spot;Percentage;Recently
+986;Litecoin;LTC/RUB;LTC;RUB;;;$382 377;$206.39;0;115;Spot;Percentage;Recently
+987;Fetch.ai;FET/BNB;FET;BNB;;;$371 531;$0.2715;0;64;Spot;Percentage;Recently
+988;Litecoin;LTC/TUSD;LTC;TUSD;;;$356 126;$204.15;0;86;Spot;Percentage;Recently
+989;Horizen;ZEN/BNB;ZEN;BNB;;;$354 658;$65.13;0;57;Spot;Percentage;Recently
+990;aelf;ELF/ETH;ELF;ETH;;;$351 916;$0.2669;0;69;Spot;Percentage;Recently
+991;Algorand;ALGO/TUSD;ALGO;TUSD;;;$348 048;$1.17;0;79;Spot;Percentage;Recently
+992;Kava.io;KAVA/BNB;KAVA;BNB;;;$341 053;$4.18;0;60;Spot;Percentage;Recently
+993;Audius;AUDIO/BUSD;AUDIO;BUSD;;;$340 998;$0.3980;0;74;Spot;Percentage;Recently
+994;TROY;TROY/BNB;TROY;BNB;;;$338 916;$0.008330;0;58;Spot;Percentage;Recently
+995;Tether;USDT/BVND;USDT;BVND;;;$336 308;$0.9999;0;184;Spot;Percentage;Recently
+996;OriginProtocol;OGN/BNB;OGN;BNB;;;$329 782;$0.3726;0;55;Spot;Percentage;Recently
+997;Bitcoin;BTC/IDRT;BTC;IDRT;;;$325 760;$53,613.48;0;62;Spot;Percentage;Recently
+998;PhoenixGlobal;PHB/TUSD;PHB;TUSD;;;$325 033;$0.008791;0;66;Spot;Percentage;Recently
+999;Blox;CDT/ETH;CDT;ETH;;;$323 824;$0.01977;0;80;Spot;Percentage;Recently
+1000;JuventusFanToken;JUV/BTC;JUV;BTC;;;$298 923;$10.28;0;60;Spot;Percentage;Recently
+1001;Tether;USDT/ZAR;USDT;ZAR;;;$297 365;$1.01;0;75;Spot;Percentage;Recently
+1002;BellaProtocol;BEL/BNB;BEL;BNB;;;$292 991;$2.58;0;61;Spot;Percentage;Recently
+1003;AdExNetwork;ADX/ETH;ADX;ETH;;;$289 613;$0.6749;0;84;Spot;Percentage;Recently
+1004;Bluzelle;BLZ/ETH;BLZ;ETH;;;$288 838;$0.1804;0;69;Spot;Percentage;Recently
+1005;AtleticoDeMadridFanToken;ATM/BTC;ATM;BTC;;;$283 116;$7.98;0;60;Spot;Percentage;Recently
+1006;OST;OST/ETH;OST;ETH;;;$277 688;$0.01961;0;69;Spot;Percentage;Recently
+1007;district0x;DNT/BUSD;DNT;BUSD;;;$277 168;$0.2762;0;62;Spot;Percentage;Recently
+1008;Zilliqa;ZIL/BIDR;ZIL;BIDR;;;$268 428;$0.1244;0;71;Spot;Percentage;Recently
+1009;BinanceCoin;BNB/PAX;BNB;PAX;;;$268 267;$265.57;0;56;Spot;Percentage;Recently
+1010;Swipe;SXP/BIDR;SXP;BIDR;;;$266 543;$2.77;0;68;Spot;Percentage;Recently
+1011;Aragon;ANT/BNB;ANT;BNB;;;$260 171;$5.38;0;78;Spot;Percentage;Recently
+1012;FIOProtocol;FIO/BUSD;FIO;BUSD;;;$259 218;$0.1362;0;64;Spot;Percentage;Recently
+1013;Wabi;WABI/BNB;WABI;BNB;;;$256 072;$0.2254;0;52;Spot;Percentage;Recently
+1014;Mithril;MITH/BNB;MITH;BNB;;;$245 700;$0.02081;0;46;Spot;Percentage;Recently
+1015;TheGraph;GRT/EUR;GRT;EUR;;;$242 522;$0.9135;0;122;Spot;Percentage;321hoursago
+1016;BitTorrent;BTT/TUSD;BTT;TUSD;;;$242 175;$0.001646;0;39;Spot;Percentage;Recently
+1017;Streamr;DATA/ETH;DATA;ETH;;;$235 849;$0.09658;0;68;Spot;Percentage;Recently
+1018;DFI.Money;YFII/BNB;YFII;BNB;;;$232 316;$2,728.00;0;86;Spot;Percentage;Recently
+1019;AxieInfinity;AXS/BNB;AXS;BNB;;;$221 929;$1.66;0;56;Spot;Percentage;Recently
+1020;Quantstamp;QSP/ETH;QSP;ETH;;;$218 078;$0.05583;0;69;Spot;Percentage;Recently
+1021;FunFair;FUN/ETH;FUN;ETH;;;$215 657;$0.03083;0;63;Spot;Percentage;Recently
+1022;Chromia;CHR/BNB;CHR;BNB;;;$209 998;$0.05882;0;51;Spot;Percentage;Recently
+1023;Firo;FIRO/ETH;FIRO;ETH;;;$205 793;$6.22;0;59;Spot;Percentage;Recently
+1024;Streamr;DATA/BUSD;DATA;BUSD;;;$201 593;$0.09738;0;68;Spot;Percentage;Recently
+1025;Bluzelle;BLZ/BNB;BLZ;BNB;;;$199 993;$0.1791;0;63;Spot;Percentage;Recently
+1026;Maker;MKR/BNB;MKR;BNB;;;$180 977;$2,331.97;0;84;Spot;Percentage;Recently
+1027;Perlin;PERL/BNB;PERL;BNB;;;$180 560;$0.06402;0;48;Spot;Percentage;Recently
+1028;Bitcoin;BTC/VAI;BTC;VAI;;;$175 810;$54,231.84;0;38;Spot;Percentage;Recently
+1029;XRP;XRP/PAX;XRP;PAX;;;$162 727;$0.5883;0;54;Spot;Percentage;Recently
+1030;WrappedNXM;WNXM/BNB;WNXM;BNB;;;$158 500;$53.50;0;63;Spot;Percentage;Recently
+1031;BinanceUSD;BUSD/IDRT;BUSD;IDRT;;;$153 800;$0.9870;0;-;Spot;Percentage;76hoursago
+1032;BasicAttentionToken;BAT/USDC;BAT;USDC;;;$151 894;$0.5468;0;51;Spot;Percentage;Recently
+1033;Numeraire;NMR/BNB;NMR;BNB;;;$121 584;$36.62;0;39;Spot;Percentage;Recently
+1034;ParisSaint-GermainFanToken;PSG/BUSD;PSG;BUSD;;;$103 107;$10.44;0;50;Spot;Percentage;Recently
+1035;JuventusFanToken;JUV/BUSD;JUV;BUSD;;;$98 065;$10.29;0;42;Spot;Percentage;Recently
+1036;sUSD;SUSD/ETH;SUSD;ETH;;;$87 476;$0.9212;0;-;Spot;Percentage;76hoursago
+1037;TRON;TRX/PAX;TRX;PAX;;;$82 303;$0.05324;0;65;Spot;Percentage;Recently
+1038;BitcoinCash;BCH/PAX;BCH;PAX;;;$64 490;$613.98;0;33;Spot;Percentage;Recently
+1039;WINk;WIN/USDC;WIN;USDC;;;$61 908;$0.0002318;0;38;Spot;Percentage;Recently
+1040;BinanceCoin;BNB/ZAR;BNB;ZAR;;;$48 759;$268.17;0;56;Spot;Percentage;Recently
+1041;BinanceUSD;BUSD/BVND;BUSD;BVND;;;$45 850;$0.9957;0;90;Spot;Percentage;Recently
+1042;Tether;USDT/BKRW;USDT;BKRW;;;$42 883;$1.00;0;-;Spot;Percentage;76hoursago
+1043;Litecoin;LTC/PAX;LTC;PAX;;;$40 352;$209.81;0;46;Spot;Percentage;Recently
+1044;BinanceUSD;BUSD/ZAR;BUSD;ZAR;;;$35 393;$1.01;0;54;Spot;Percentage;Recently
+1045;Ethereum;ETH/ZAR;ETH;ZAR;;;$34 438;$1,785.54;0;58;Spot;Percentage;Recently
+1046;renBTC;RENBTC/ETH;RENBTC;ETH;;;$26 370;$54,495.13;0;47;Spot;Percentage;Recently

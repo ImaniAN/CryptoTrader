@@ -1,0 +1,14 @@
+{
+  "_1614363713823": {
+    "title": "tradingview.com/crypto-screener",
+    "fields": [
+      {
+        "name": "",
+        "selector": "td.apply-common-tooltip [class='tv-screener__symbol apply-common-tooltip']"
+      }
+    ],
+    "urls": [
+      "https://www.tradingview.com/crypto-screener/"
+    ]
+  }
+}

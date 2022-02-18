@@ -1,0 +1,95 @@
+# Test the SeleniumBase Python package with Azure Pipelines.
+# https://docs.microsoft.com/azure/devops/pipelines/languages/python
+
+trigger:
+- master
+
+jobs:
+
+- job: 'Test'
+  pool:
+    vmImage: 'Ubuntu-18.04'
+  strategy:
+    matrix:
+      Python2.7:
+        python.version: '2.7'
+      Python3.5:
+        python.version: '3.5'
+      Python3.6:
+        python.version: '3.6'
+      Python3.7:
+        python.version: '3.7'
+      Python3.8:
+        python.version: '3.8'
+      Python3.9:
+        python.version: '3.9'
+    maxParallel: 6
+
+  steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: '$(python.version)'
+      architecture: 'x64'
+
+  - script: python -m pip install --upgrade pip && pip --version
+    displayName: 'Install/upgrade pip'
+
+  - script: python -m pip install seleniumbase
+    displayName: 'Verify install from PyPI'
+
+  - script: python -m pip install -r requirements.txt --upgrade
+    displayName: 'Install dependencies'
+
+  - script: python setup.py install
+    displayName: 'Install SeleniumBase'
+
+  - script: |
+      sudo apt install google-chrome-stable
+      sudo apt-get install firefox
+    displayName: 'Install Chrome and Firefox'
+
+  - script: |
+      seleniumbase
+      sbase
+    displayName: 'Check the console scripts interface'
+
+  - script: |
+      seleniumbase install chromedriver latest
+    displayName: 'Install chromedriver'
+
+  - script: |
+      echo "def test_1(): pass" > nothing.py
+      pytest nothing.py
+    displayName: 'Make sure pytest is working'
+
+  - script: python -m pytest examples/boilerplates/boilerplate_test.py --browser=chrome --headless -v -s --junit-xml=junit/test-results.xml
+    displayName: 'Run pytest boilerplate_test.py --browser=chrome --headless'
+
+  - script: python -m pytest examples/my_first_test.py --browser=chrome --headless -v -s --junit-xml=junit/test-results.xml
+    displayName: 'Run pytest my_first_test.py --browser=chrome --headless'
+
+  - script: python -m pytest examples/test_demo_site.py --browser=chrome --headless -v -s --junit-xml=junit/test-results.xml
+    displayName: 'Run pytest test_demo_site.py --browser=chrome --headless'
+
+  #- script: python -m pytest examples/test_inspect_html.py --browser=chrome --headless -v -s --junit-xml=junit/test-results.xml
+  #  displayName: 'Run pytest test_inspect_html.py --browser=chrome --headless'
+
+  #- task: PublishTestResults@2
+  #  inputs:
+  #    testResultsFiles: '**/test-results.xml'
+  #    testRunTitle: 'Python $(python.version)'
+  #  condition: succeededOrFailed()
+
+#- job: 'Publish'
+#  dependsOn: 'Test'
+#  pool:
+#    vmImage: 'Ubuntu-18.04'
+
+#  steps:
+#  - task: UsePythonVersion@0
+#    inputs:
+#      versionSpec: '3.x'
+#      architecture: 'x64'
+
+#  - script: python setup.py sdist
+#    displayName: 'Build sdist'
