@@ -1,12 +1,9 @@
 # CryptoTrader
 
-# Project Title
-
-Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Python Script that returns (Trading view - Crypto Scanner") "results" and trades "results" on Binance according to trading rules
 
 ## Getting Started
 
